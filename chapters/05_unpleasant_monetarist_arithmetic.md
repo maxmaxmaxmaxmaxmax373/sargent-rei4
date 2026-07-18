@@ -789,7 +789,7 @@ $$
 $$ (eq-5-20)
 
 ```{figure} ../figures/05-01_Sargent_fig.png
-:name: fig-5-1
+:name: fig-fig51
 :width: 90%
 
 The equilibrium law of motion of the inflation rate. The curved line shows the equilibrium inflation rate in period $t+1$, $\pi_{t+1}$, as a function of the inflation rate in period $t$. The dotted line is the $45$ degree line. The intersections of the curved line with the $45$ degree line are stationary equilibrium inflation rates.
@@ -846,7 +846,7 @@ T$; and $(c)$ the class of nonstationary paths with $\gamma_1 / \gamma_2
 \infty$.
 
 ```{figure} ../figures/05-02_Sargent_fig.png
-:name: fig-5-2
+:name: fig-fig52
 :width: 90%
 
 The equilibrium dynamics of inflation.

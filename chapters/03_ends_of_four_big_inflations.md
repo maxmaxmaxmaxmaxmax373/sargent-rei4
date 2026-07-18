@@ -121,8 +121,11 @@ Hungarian, Polish, and German hyperinflations, there are some very
 important common features. These include the following:
 
 1. The nature of the fiscal policy regime in effect during each of the hyperinflations. Each of the four countries persistently ran enormous budget deficits on current account.
+
 2. The nature of the deliberate and drastic fiscal and monetary measures taken to end the hyperinflations.
+
 3. The immediacy with which the price level and foreign exchanges suddenly stabilized.[^4]
+
 4. The rapid rise in the “high-powered” money supply in the months and years after the rapid inflation had ended.
 
 I shall assemble and interpret the facts in the light of a view

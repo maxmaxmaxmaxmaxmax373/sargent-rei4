@@ -382,8 +382,11 @@ keep in mind a number of characteristics of the French financial crisis
 of 1926 and the subsequent salvation of the franc by Poincaré:
 
 1. The extent to which the large interest-bearing French government debt created during the war and the reconstruction period became more and more difficult to refinance, thereby generating increasing pressures for its eventual monetization. This pressure eventually led to fraudulent accounting practices by the Bank of France and a scandal that brought down a government. The forces underlying these events are pertinent in Britain and elsewhere today in estimating the likely consequences and even the very feasibility of policies that propose to combat inflation with restrictive monetary policies alone, while at the same time permitting substantial government deficits to continue.
+
 2. The manner in which France stabilized by pegging the franc to a foreign currency and adopting changes in tax and expenditure laws that delivered the prospective budget surpluses needed to support that peg without exchange controls. A similar course was available to Britain in 1979, but it did not choose to follow it.
+
 3. The sense in which the preconditions for a successful and relatively costless stabilization along the rational expectations equilibrium model were met in France in 1926. Whether these preconditions are met is in large part a consequence of historical circumstance. However, it is also perhaps partly a function of the particular lines along which a stabilization is sought. For example, it is arguable that pegging to a foreign currency is a policy that is relatively easier to support and make credible by concrete actions, since it is possible to hook the domestic country's price expectations virtually instantaneously on to the presumably exogenous price expectations process in the foreign country.
+
 4. The fact that France chose to stabilize at a value that was widely believed to undervalue the franc. To this the French prosperity of the late 1920s has often been partly ascribed (e.g., see {cite:t}`Alpert:1951` or {cite:t}`Yeager:1976`). This is to be contrasted with the situation in England today, where contemporary monetary and fiscal policies have permitted a substantial appreciation of the pound, with consequent depressing influences on export industries.
 
 ## The British Experience
@@ -423,7 +426,9 @@ financial strategy” (MTFS) the new government announced in 1979. The
 plan included the following elements:
 
 1. A gradual reduction in the rate of growth of the money supply over a five-year period. The monetary aggregate that was chosen as the monetary instrument variable was “sterling M3” or “£ M3,” which corresponds to currency plus sterling-denominated demand and time deposits of United Kingdom commercial banks. The initial plan called for £ M3 to grow annually at a 9 percent rate in 1980–81, with its rate of growth gradually to decline to 6 percent by 1983–84.
+
 2. A reduction in the real value of government spending within four years to a level 5 percent less than the level in 1979–80.
+
 3. A public sector borrowing requirement (PSBR) of £ 8.5 billion in 1979–80, and £ 7 billion in 1980–81 (both in 1978–79 prices). Even these borrowing requirements, reduced though they were from those projected under the previous Labor government's policies, represent deficits that as a ratio to GNP are several times those experienced in the United States.
 
 Other elements of the government's plan were executed immediately.
@@ -782,7 +787,7 @@ earlier, this structure of expenditure cuts is perverse from the
 viewpoint of anti-inflationary policy.
 
 ```{figure} ../figures/04-01_Sargent_fig.png
-:name: fig-4-1
+:name: fig-fig41
 :width: 90%
 
 Gross domestic fixed capital formation (millions of pounds, 1975 prices seasonally adjusted).
