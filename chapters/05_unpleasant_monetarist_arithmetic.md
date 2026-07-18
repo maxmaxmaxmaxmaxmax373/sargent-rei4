@@ -12,7 +12,7 @@ answer the following question: Is it possible for monetary policy
 permanently to influence an economy's inflation rate? The answer to
 this question hinges on how monetary and fiscal policies are imagined to
 be coordinated. On the one hand, one can imagine a monetary authority
-sufficiently powerful vis-\‘a-vis the fiscal authority that by the
+sufficiently powerful vis-à-vis the fiscal authority that by the
 imposition of slower rates of growth of base money, both now and into
 the indefinite future, it can successfully constrain fiscal policy by
 telling the fiscal authority how much seigniorage it can expect now and
@@ -22,7 +22,7 @@ authority. Under this coordination scheme, the decisions of the
 monetary authority about the stream of seigniorage it will supply to the
 fiscal authority can permanently influence the inflation rate. On the
 other hand, one can imagine that the monetary authority is not in a
-position to influence the government’s deficit path but is limited
+position to influence the government's deficit path but is limited
 simply to managing the debt that is implied by the deficit path chosen
 by the fiscal authorities. Under this second coordination scheme, the
 monetary authority is much less powerful than under the first scheme.
@@ -471,7 +471,7 @@ uniformly better than the tighter policy. (In terms of the model of
 Appendix 1, the equilibrium for the easier monetary policy is Pareto
 superior to that for the tighter monetary policy.) In this example, the
 tighter current monetary policy fails to buy even a temporary
-improvement in inflation vis-\‘a-vis the looser current
+improvement in inflation vis-à-vis the looser current
 policy.[^6]
 
 ## Conclusions and Qualifications
@@ -512,7 +512,7 @@ first is that the real rate of interest exceeds the growth rate of the
 economy. We have used that assumption because it seems to be maintained
 by many of those who argue for a low rate of growth of money no matter
 what is the current deficit. If we were to replace that assumption, we
-would instead assume that the public’s demand for government bonds is an
+would instead assume that the public's demand for government bonds is an
 increasing function of their real rate of return, with an initial range
 over which that demand is positive at rates of return that are negative
 or less than the growth rate of the economy. But to induce larger
