@@ -47,7 +47,7 @@ authorities is a myth.
 
 Arithmetic makes the strategies of the monetary and fiscal
 authorities interdependent.[^1] Classic recommendations for the conduct of monetary
-policy, such as {cite:t}`Friedman1960`’s *k*-percent growth
+policy, such as {cite:author}`Friedman1960`’s ({cite:year}`Friedman1960`) *k*-percent growth
 rule for currency or
 the gold standard, are well understood as coordination rules for
 monetary and fiscal policy. For these coordination rules to be
@@ -94,7 +94,7 @@ net-of-interest deficits observed during the Reagan administration?
 Barro's model supplies a possible answer.
 
 Barro's model of tax smoothing can be thought of as a reinterpretation of
-Milton {cite:t}`Friedman:1956`’s model of permanent income as developed
+Milton {cite:author}`Friedman:1956`’s ({cite:year}`Friedman:1956`) model of permanent income as developed
 by Robert E. {cite:t}`Hall:1978`.[^3] The permanent income model of consumption
 confronts a consumer with an exogenous process for labor income and a
 constant real rate of return on savings.
@@ -557,6 +557,6 @@ tax collections are a random walk.
 
 [^4]: See {cite:t}`Kydland_Prescott` for a discussion of the time-inconsistency problem in macroeconomics. See {cite:t}`Lucas/Stokey:1983` for a study of dynamic inconsistency in the context of an optimal tax smoothing model that shares many features with Barro's model.
 
-[^5]: See {cite:t}`Sargent:1987`’s chapter on dynamic optimal taxation for an extended example exploring the time-inconsistency phenomenon created by the responsiveness of investment to anticipations of future taxes.
+[^5]: See {cite:author}`Sargent:1987`’s ({cite:year}`Sargent:1987`) chapter on dynamic optimal taxation for an extended example exploring the time-inconsistency phenomenon created by the responsiveness of investment to anticipations of future taxes.
 
 [^6]: Wallace advanced his ideas orally in March 1981 during discussions that later led to our co-authoring “Unpleasant Monetarist Arithmetic” (1981).
