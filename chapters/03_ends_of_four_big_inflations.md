@@ -89,28 +89,28 @@ deliberately adopted a relatively restrictive fiscal policy regime, with
 the avowed aim of maintaining the value of its currency.
 
 ```{figure} ../figures/03-01_Sargent_fig.png
-:name: fig-3-1
+:name: fig-fig31
 :width: 90%
 
 Retail prices in Austria, 1921–24
 ```
 
 ```{figure} ../figures/03-02_Sargent_fig.png
-:name: fig-3-2
+:name: fig-fig32
 :width: 90%
 
 Wholesale prices in Hungary, 1921–24
 ```
 
 ```{figure} ../figures/03-03_Sargent_fig.png
-:name: fig-3-3
+:name: fig-fig33
 :width: 90%
 
 Wholesale prices in Poland, 1921–24
 ```
 
 ```{figure} ../figures/03-04_Sargent_fig.png
-:name: fig-3-4
+:name: fig-fig34
 :width: 90%
 
 Wholesale prices in Germany, 1919–24
@@ -965,7 +965,7 @@ In this case the inflation rate would follow the path depicted in Figure
 3.1.
 
 ```{figure} ../figures/03-05_Sargent_fig.png
-:name: fig-3-5
+:name: fig-fig3N1
 :width: 90%
 
 Inflation path with a fully anticipated decrease in money supply growth from $\mu$ to $0$ at time $T$. From time $0$ to $T$ the money growth rate is $\mu$, but people are assumed to know that it will drop to zero at time $T$.
@@ -991,7 +991,7 @@ the price level in the face of a decreased rate of change of
 money, the level of the money supply must jump upward once and for all.
 
 ```{figure} ../figures/third.png
-:name: fig-3-6
+:name: fig-fig3N2
 :width: 90%
 
 Inflation path with a previously unexpected decrease in money growth from $\mu$ to $0$ at time $T$. From time $0$ to $T$, people think that the growth rate of money will be $\mu$ forever.
