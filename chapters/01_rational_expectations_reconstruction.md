@@ -620,7 +620,7 @@ after another.
 
 [^5]: Here $T$ denotes matrix transposition.
 
-[^6]: The investment schedule can be derived from the following dynamic model of a firm. A firm chooses sequences of capital to maximize $$ E_0 \sum_{t=0}^\infty \beta^t \bigl[ f_1 k_t - \frac{f_2}{2} k_t^2 - f_3 k_t \tau_t - \frac{d}{2} (k_t - k_{t-1})^2 \bigr] $$ where $f_1, f_2, f_3, d > 0; 0 > \beta > 1$; and $E_0$ is the mathematical expectation operator conditioned on information known at time $0$. The maximization is subject to $k_{t-1}, \tau_t$ being known at time $t$. Maximization problems of this kind are analyzed in {cite:t}`Sargent:1979`. The parameters $\lambda, \alpha$, and $\delta$ can be shown to be functions of $f_1, f_2, f_3,$ and $d$.
+[^6]: The investment schedule can be derived from the following dynamic model of a firm. A firm chooses sequences of capital to maximize $E_0 \sum_{t=0}^\infty \beta^t \bigl[ f_1 k_t - \frac{f_2}{2} k_t^2 - f_3 k_t \tau_t - \frac{d}{2} (k_t - k_{t-1})^2 \bigr]$ where $f_1, f_2, f_3, d > 0; 0 > \beta > 1$; and $E_0$ is the mathematical expectation operator conditioned on information known at time $0$. The maximization is subject to $k_{t-1}, \tau_t$ being known at time $t$. Maximization problems of this kind are analyzed in {cite:t}`Sargent:1979`. The parameters $\lambda, \alpha$, and $\delta$ can be shown to be functions of $f_1, f_2, f_3,$ and $d$.
 
 [^7]: The eigenvalues of $A$ are assumed to be less than $\delta^{-1}$ in absolute value.
 
