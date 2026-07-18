@@ -242,6 +242,47 @@ would be raised, with the monied interests in the country resisting
 efforts to raise taxes on them.[^7] The accession to power of Poincaré in 1926 settled that
 issue in a fashion acceptable to the country's monied interests.
 
+(tab-41)=
+**Table 4.1.** French Wholesale Price Index Base 1913 $=$ 100, 1913 from 1901–10 index $=$115.6
+
+| Year | Jan. | Feb. | March | April | May | June |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1923 | 386.9 | 421.8 | 424.0 | 414.7 | 406.5 | 408.7 |
+| 1924 | 494.0 | 543.7 | 499.3 | 450.0 | 458.5 | 465.3 |
+| 1925 | 514.4 | 515.0 | 513.5 | 512.8 | 519.8 | 542.6 |
+| 1926 | 633.5 | 635.6 | 631.8 | 650.1 | 687.9 | 738.4 |
+| 1927 | 621.8 | 631.6 | 641.4 | 636.5 | 628.6 | 622.6 |
+|  | July | Aug. | Sept. | Oct. | Nov. | Dec. |
+|  | 406.7 | 413.1 | 423.6 | 420.5 | 442.9 | 458.6 |
+|  | 481.0 | 476.6 | 485.6 | 497.1 | 503.5 | 507.2 |
+|  | 556.8 | 557.2 | 555.7 | 572.3 | 605.5 | 632.4 |
+|  | 836.2 | 769.5 | 786.9 | 751.5 | 683.8 | 626.5 |
+|  | 619.9 | 617.9 | 600.3 | 587.5 |  |  |
+
+*Source: League of Nations Bulletin, Haig (1929, p. 448).*
+
+
+(tab-42)=
+**Table 4.2.** Dollar Exchange in Paris
+
+|  | 1923 | 1924 | 1925 | 1926 | 1927 |
+| --- | --- | --- | --- | --- | --- |
+| January | 15.57 | 21.74 | 18.49 | 26.77 | 25.32 |
+| February | 16.45 | 25.57 | 19.38 | 27.49 | 25.55 |
+| March | 15.23 | 18.32 | 19.06 | 28.65 | 25.54 |
+| April | 14.84 | 15.45 | 19.20 | 30.15 | 25.53 |
+| May | 15.15 | 18.80 | 19.83 | 30.60 | 25.53 |
+| June | 16.32 | 18.88 | 21.56 | 34.93 | 25.54 |
+| July | 16.84 | 19.86 | 21.11 | 41.15 | 25.56 |
+| August | 17.65 | 18.48 | 21.30 | 35.12 | 25.51 |
+| September | 16.15 | 18.96 | 21.12 | 35.66 | 25.48 |
+| October | 17.19 | 19.13 | 23.92 | 32.52 | 25.47 |
+| November | 18.51 | 18.82 | 26.09 | 28.11 | 25.43 |
+| December | 19.59 | 18.56 | 26.90 | 25.25 | 25.40 |
+
+**Note*: Averages of daily rates for final weeks of each month, francs per dollar.*
+
+
 France financed its effort in World War I by borrowing at home and
 abroad, mainly in the United States. After the war France continued to
 run substantial government deficits. That it did so was partly
@@ -259,7 +300,7 @@ relief from reparations provided Germany under the Dawes plan in 1924,
 it became clear that France could not continue to expect that German
 reparations would be sufficient to redeem the French government's debt.
 From that time on the franc depreciated, and the domestic price level
-rose, as Table 4.2 shows.[^9] The big financial
+rose, as [Table 4.2](#tab-42) shows.[^9] The big financial
 question for French governments was how much of its outstanding debt
 would be paid off or honored by channeling increased tax revenues to
 bondholders, and how much would be defaulted on through depreciation of
@@ -392,6 +433,116 @@ of 1926 and the subsequent salvation of the franc by Poincaré:
 ## The British Experience
 
  Tables 4.3 through 4.12 report statistics that summarize the recent
+
+(tab-43)=
+**Table 4.3.** 
+
+|  | (1) GDP at current prices based on expenditure data | (2) GDP at 1975 prices based on expenditure data | Implicit price deflator 1975 = 100 (column 1 divided by column 2)$\times$ 100 | GDP at market prices | Consumers' expenditure |
+| --- | --- | --- | --- | --- | --- |
+| 1970 | 43,532 | 85,402 | 50.97 | 51,065 | 31,778 |
+| 1971 | 49,442 | 87,572 | 56.46 | 57,291 | 35,599 |
+| 1972 | 55,276 | 88,719 | 62.30 | 63,390 | 40,183 |
+| 1973 | 64,258 | 95,506 | 67.28 | 72,936 | 47,759 |
+| 1974 | 74,414 | 94,527 | 78.72 | 82,879 | 52,849 |
+| 1975 | 93,954 | 93,954 | 100.00 | 104,413 | 64,424 |
+| 1976 | 111,245 | 97,971 | 113.55 | 124,330 | 74,751 |
+| 1977 | 126,111 | 98,993 | 127.39 | 143,064 | 85,474 |
+| 1978 | 144,442 | 101,929 | 141.71 | 164,034 | 98,395 |
+| 1979 | 163,647 | 102,563 | 159.56 | 189,702 | 114,805 |
+
+*(continued)*
+
+| General government final consumption | Gross domestic fixed capital formation | Value of physical increase in stocks and work in progress | Exports of goods and services | Imports of goods and services | Taxes on expenditure | Subsidies |
+| --- | --- | --- | --- | --- | --- | --- |
+| 8,991 | 9,470 | 421 | 11,551 | 11,146 | 8,417 | 884 |
+| 10,250 | 10,517 | 158 | 12,960 | 12,193 | 8,788 | 939 |
+| 11,675 | 11,606 | 44 | 13,653 | 13,771 | 9,627 | 1,153 |
+| 13,380 | 14,238 | 1,448 | 17,124 | 19,013 | 10,121 | 1,443 |
+| 16,609 | 16,867 | 1,304 | 22,985 | 27,375 | 11,469 | 3,004 |
+| 23,074 | 20,417 | 1,534 | 27,011 | 28,979 | 14,162 | 3,703 |
+| 26,779 | 23,599 | 864 | 35,211 | 36,874 | 16,553 | 3,468 |
+| 26,209 | 25,739 | 1,860 | 43,352 | 42,570 | 20,252 | 3,299 |
+| 32,934 | 26,695 | 1,070 | 47,442 | 45,502 | 23,253 | 3,661 |
+| 38,316 | 33,646 | 2,760 | 54,676 | 54,501 | 30,361 | 4,306 |
+
+
+(tab-412)=
+**Table 4.12.** Interest Rates, Security Prices, and Yields percentage rate
+
+|  | Last Friday |  | Last working day |  | Average of working days |
+| --- | --- | --- | --- | --- | --- |
+|  | Bank of England's minimum lending rate to the market | Treasury bill yield | Eurodollar 3-month rate | Building Societies Association recommended rate on shares | British government securities: long-dated (20 years) |
+| 1969 | 8 | 7.80 | 10.07 | 5.00 | 9.05 |
+| 1970 | 7 | 6.93 | 6.57 | 5.00 | 9.25 |
+| 1971 | 5 | 4.46 | 5.75 | 5.00 | 8.90 |
+| 1972 | 9 | 8.48 | 5.91 | 5.25 | 8.97 |
+| 1973 | 13 | 12.82 | 10.19 | 7.50 | 10.78 |
+| 1974 | 11.50 | 11.30 | 10.07 | 7.50 | 14.77 |
+| 1975 | 11.25 | 10.93 | 5.88 | 7.00 | 14.39 |
+| 1976 | 14.25 | 13.98 | 5.07 | 7.80 | 14.43 |
+| 1977 | 7 | 6.39 | 7.19 | 6.00 | 12.73 |
+| 1978 | 12.50 | 11.91 | 11.69 | 8.00 | 12.47 |
+| 1979 | 17 | 16.49 | 14.50 | 10.50 | 12.99 |
+| 1980 | 14 | 13.45 | 17.75 | 10.50 |  |
+
+[^1]: Robert {cite:t}`Barro:1977` has pointed out that after a change in policy regime, it can happen that it is in the interests of neither party to enforce some long-term contracts of the Taylor-Fischer variety that had been agreed upon before the regime change. Presumably such contracts would never be enforced.
+
+[^2]: Leland {cite:t}`Yeager:1976`, 472 summarizes British postwar macroeconomic policy as follows: “The rapid reversibility of British policy $\ldots$ has been almost comical at times. Balance-of-payments troubles have brought a variety of *ad hoc* responses, including two devaluations and one abandonment of exchange rate pegging, the selective Employment Tax of 1966, the import surcharge of 1964, the import deposit scheme of 1968, the tightening and loosening of various exchange controls on current and capital transactions, and various attempts at wage and price control, as well as turnarounds in domestic financial policy. Reliance on such expedients creates chances of improper timing, of anticipatory private actions, of overshooting the mark, and of intensified instability as a result.”
+
+[^3]: It goes without saying that the “credibility” that is essential under the rational expectations theory cannot be manipulated by promises or government announcements.
+
+[^4]: Rudiger Dornbusch made this argument in oral comments on Chapter 3 of this book.
+
+[^5]: The reader is referred to the accounts of post–World War I stabilizations in {cite:t}`Brown:1940` and {cite:t}`Young:1925`. For example, the Italian stabilization might as easily have served as our example as the French one. {cite:t}`Brown:1940`, 431 quotes Count Volpi's account of the important aspects of the plan that the Italian government used to stabilize the lira: 1. 2. Balancing of the national budget. 3. Consolidation of war debts. 4. Unification of the note issue and its concentration in the hands of the Bank of Italy. 5. Progressive and more efficient utilization of Italian resources and raw materials. 6. Gradual deflation in currency and in credit. 7. Consolidation of the floating debt and reorganization in the Treasury Department. 8. Regulation of the influx of foreign capital into Italian industry. 9. Reorganization in the whole field of production, and readjustment of taxes with a view to increased industrial efficiency. 10. Gradual amortization of the domestic debt. 11. Defense of the treasury surplus by the reduction of state expenditures. Count Volpi was the “architect of Italy's return to gold.”
+
+[^6]: Interesting accounts of the “Poincaré miracle” appear in {cite:t}`Shirer:1969`, {cite:t}`Yeager:1976`, {cite:t}`Alpert:1951`, {cite:t}`Haig:1929`, and {cite:t}`Rogers:1929`.
+
+[^7]: William {cite:t}`Shirer:1969` describes this struggle.
+
+[^8]: Another element of uncertainty was injected by the substantial war debts owed by the United States, coupled with the French belief that the United States should not insist that these be repaid.
+
+[^9]: For accounts of the effects of war debts and reparations on the public finances and currencies in Europe after World War I, see {cite:t}`Yeager:1976` and {cite:t}`Alpert:1951`.
+
+[^10]: The strength and endurance of French politicians' resolve not to repeat such a default was indicated by the fact that France was the last of the major countries to devalue its currency in terms of gold in the 1930s: France devalued in 1936, while England did so in 1931 and the United States in 1933.
+
+[^11]: Stanley {cite:t}`Fischer:1981` provides a more complete discussion of this issue and the other issues described in this paragraph. {cite:t}`Bryant/Wallace:1980` discuss optimal seigniorage from the viewpoint of price discrimination. They describe setups in which a government can find it worthwhile to issue an array of debt with differing yields, tailored to segments of the market with differing interest elasticities of demand for government debt. Applying their idea to the issue in the present discussion, setups can be imagined where the domestic country arranges to hold high-yielding foreign government debt and where it is in the interests of both the foreign and the domestic country to permit the domestic country to back its monetary liabilities by the higher-yielding foreign government debt rather than the lower-yielding debt.
+
+[^12]: John {cite:t}`Bilson:1980` describes a scheme of this sort that can lead to a positive real return on government-issued or privately issued “currency” through a process of deflation.
+
+[^13]: Presumably, a rule in which *k* is a small number.
+
+[^14]: In the literature it has been pointed out that such a *k*-percent rule implies an explosive path for the government interest-bearing debt. As Bennett {cite:t}`McCallum:1978` has pointed out, depending on the precise specification of the model, that fact may or may not imply that other variables in the model that are of interest are unstable.
+
+[^15]: The recent issue of indexed bonds in England sold at a real rate of interest of about 2 percent.
+
+[^16]: This issue was central to the struggle for the post–World War I stabilizations.
+
+[^17]: From the technical viewpoint of controlling monetary aggregates, the banking and financial intermediary systems in the United Kingdom differ in important respects from those in the United States. First, in the United Kingdom banking is more concentrated, there being five main “Clearing Banks.” Second, in the British assets eligible to meet the 12.5 percent reserve requirement include all of the following interest-bearing assets: money at call from discount houses, treasury bills and other short-term government securities, local authority paper, corporate tax anticipation certificates, and bills of exchange. Notice that some of these assets are evidences of government indebtedness, while others are private debts. Since demand deposits do not bear interest in the United Kingdom, vis-à-vis the US system, this system of reserve requirements tends to increase the banking system's share of seigniorage revenues relative to that of the government. On the other side of this issue, currency is a higher proportion of £ M1 in the United Kingdom than in the United States. Third, the building societies (the analogue of savings and loan institutions in the United States) have long issued mortgages with variable maturities and variable rates of interest both linked to the general level of market interest rates. Therefore in the United Kingdom high interest rates do not produce the disintermediation from saving institutions that is so troublesome for the conduct of monetary policy in the United States. Fourth, partly as a result of the third feature, there is no analogue of Regulation Q in the United Kingdom, and small savers have access to a variety of instruments yielding close to market rates, as for example, building society shares. This fact also explains the absence of money market funds in the United Kingdom. Fifth, the Bank of England does not lend directly to the clearing banks but instead operates a discount window for the discount houses that make markets and hold portfolios of short-term government and private securities. The minimum lending rate, formerly known as the bank rate, applies to the Bank of England's loans to the discount houses.
+
+[^18]: I have in mind the Monetary Control Act.
+
+[^19]: As in the United States, in the United Kingdom there is a bewildering variety of monetary aggregates. The main ones are £ M1, £ M3, PSL 1 (Public Sector Liquidity number 1), and PSL 2. The variety of aggregates is spawned by the vagueness of “means of payments” as a category setting off one class of assets as “money.” See {cite:t}`Sargent_Wallace_1982`.
+
+[^20]: Recall the remarks in note 17 about the way in which seigniorage is allocated between the banks and the government under the British system of reserve requirements.
+
+[^21]: This was the choice that French politicians consciously faced and struggled with from 1919 to 1926 and that politicians also face today, although perhaps less consciously.
+
+[^22]: See {cite:t}`Dornbusch:1976,Dornbusch:1980`. {cite:t}`Buiter/Miller:1981` argue that Dornbusch's idea explains contemporary observations in the United Kingdom.
+
+[^23]: One popular policy recommendation stemming from the momentum version of the model is to impose inward capital controls, for example, an interest equalization tax on the yields of British securities held by foreigners. Such a tax is presumed to weaken the pound and stimulate aggregate demand and real domestic output. See {cite:t}`Buiter/Miller:1981`.
+
+[^24]: {cite:t}`Kareken/Wallace:1981` propound a model with an extreme amount of currency substitution.
+
+[^25]: Economists have begun devoting more attention to devising ways of reducing the cost of winding down inflation. For example, Jeffrey Shaefer and Axel Leijonhufvud have recently described a kind of dynamic currency reform scheme that aims to eradicate the costs of eliminating inflation that are due to long-term contracts. To illustrate their scheme, suppose that up to date $t$, the monetary and fiscal policy regime and the other random processes that influence inflation have been such as to make it rational for private agents to expect that future prices will follow some given path ${\bar p} (t+j), j \geq 0$, where the expected price level ${\bar p} (t+j)$ is measured as usual in units of green dollars at time $t+j$ per good at time $(t+j)$. For example, if a constant rate of inflation of $\pi$ is expected, then $ \bar p (t+j) = (1 + \pi)^j p(t)$, where $p(t)$ is the actual price level at $t$. If these price expectations are built into long-term contract that have been entered into $t$ and earlier, and so form a legacy that influences actual prices and quantities at time $t+j$, then the act of bringing inflation to a sudden halt will cause substantial redistributions across traders. To the extent that actual prices turn out to be less than those expected at the time that the contracts were negotiated, real output and unemployment will be adversely affected. The idea of Shaefer and Leijonhufvud is to circumvent these costs by carrying out an imaginative kind of currency reform. The government passes a law at date $t$ that states that all contracts that call for payment of $y$ dollars at date $t+j$ can be discharged by paying only $yp(t)/\bar p (t+j)$ dollars. Thus, in the constant expected inflation case, dollars due at $t+j$ are paid off at only $1/(1+\pi)^j$ on the dollar. More important, the government successfully commits itself to run a fiscal and monetary policy that implies a stable price level so that the actual price $p(t+j)=p(t)$ for all $j \geq 1$. With a constant actual price path of $p(t+j) = p(t)$, and the new debt conversion law, both sides of all contracts end up being just as well off as if the debt conversion law had not been enacted and prices had risen as expected, $p(t+j)=\bar p (t+j)$. Thus the debt conversion law is crafted to neutralize the real effects of the monetary and fiscal policies needed to support a zero inflation price path. It is as if the government announces that it is calling in all the green-colored currency and issuing new blue-colored currency on the following terms: green dollars will be converted into blue dollars at par at time $t$, and subsequently the green dollar price of a blue dollar is ${\bar p}(t+j)/p(t)$.
+
+[^26]: These remarks were added in April 1992. I thank Joseph Bisignano and John Taylor for pointing out some oversights in my treatment of the Poincaré miracle.
+
+[^27]: On more general issues associated with the “Poincaré miracle,” I recommend the paper by John {cite:t}`Taylor:1982` and the first chapter of R. G. {cite:t}`Hawtrey:1933`. Both Hawtrey and Taylor draw attention to the contraction in output that followed the stabilization of 1926, and mention that the committee of experts had been worried about such an occurrence.
+
+[^28]: See {cite:t}`Moreau:1991`, 45–56.
+
+[^29]: Moreau also describes how two years later he opposed Poincaré's wishes to move in an opposite direction, when Poincaré wanted to set the value of the franc against gold to a level that Moreau thought too high.
+
 
 behavior of United Kingdom aggregates. Since Mrs. Thatcher took office
 in June 1979, much of the news has been bad. Real GNP has declined;
@@ -566,7 +717,47 @@ isolate it from any increase in the real value of the burden of the debt
 once inflation is lowered. This the British government has not done to
 any significant extent.
 
-For advocates of “Irving Fisher's effect,” Table 4.11 contains an
+(tab-411)=
+**Table 4.11.** 
+
+|  | Short-dated (5 years) | Medium-dated (10 years) | Long-dated (20 years) |
+| --- | --- | --- | --- |
+| Last working days |  |  |  |
+| 1980 |  |  |  |
+| Oct. | 13.15 | 13.29 | 13.15 |
+| Nov. | 12.97 | 13.43 | 13.35 |
+| Dec. | 13.30 | 13.89 | 13.80 |
+| 1981 |  |  |  |
+| Jan. | 13.21 | 13.86 | 13.86 |
+| Feb. | 13.00 | 13.84 | 13.94 |
+| Mondays |  |  |  |
+| 1980 |  |  |  |
+| Oct. 20 | 13.07 | 13.33 | 13.23 |
+| Oct. 27 | 12.93 | 13.07 | 12.95 |
+| Nov. 3 | 13.29 | 13.40 | 13.24 |
+| Nov. 10 | 13.38 | 13.53 | 13.35 |
+| Nov. 17 | 13.11 | 13.26 | 13.10 |
+| Nov. 24 | 13.03 | 13.22 | 13.08 |
+| Dec. 1 | 12.95 | 13.34 | 13.26 |
+| Dec. 8 | 13.04 | 13.44 | 13.34 |
+| Dec. 15 | 13.62 | 14.08 | 13.94 |
+| Dec. 22 | 13.18 | 13.79 | 13.70 |
+| Dec. 29 | 13.28 | 13.88 | 13.80 |
+| 1981 |  |  |  |
+| Jan. 5 | 13.19 | 13.89 | 13.85 |
+| Jan. 12 | 13.38 | 14.06 | 14.02 |
+| Jan. 19 | 13.30 | 14.05 | 14.06 |
+| Jan. 26 | 13.29 | 13.95 | 13.95 |
+| Feb. 2 | 13.19 | 13.83 | 13.83 |
+| Feb. 9 | 13.29 | 13.89 | 13.90 |
+| Feb. 16 | 13.24 | 13.92 | 13.94 |
+| Feb. 23 | 12.97 | 13.83 | 13.93 |
+| Mar. 2 | 13.03 | 13.87 | 13.97 |
+| Mar. 9 | 13.15 | 13.95 | 14.03 |
+| Mar. 16 | 12.85 | 13.59 | 13.63 |
+
+
+For advocates of “Irving Fisher's effect,” [Table 4.11](#tab-411) contains an
 important piece of evidence about the public credibility of Mrs.\
 Thatcher's plan for reducing inflation over the longer run. The term
 structure of interest rates on government bonds is high and fairly flat,
@@ -774,9 +965,9 @@ government debt. This arrangement is one that departs from or at least
 obscures the earmarking of revenues from particular projects to back a
 given bond issue. Moreover the recent history of public finances in the
 United Kingdom displays little sensitivity to the distinction between
-capital and current account so, for example, as Table 4.6 and Figure 4.1
+capital and current account so, for example, as [Table 4.6](#tab-46) and Figure 4.1
 show, capital formation by the general government and nationalized
-industries has stagnated or actually fallen. Further, as Table 4.9
+industries has stagnated or actually fallen. Further, as [Table 4.9](#tab-49)
 shows, while general government final consumption and current grants and
 subsidies have risen substantially in recent years, and have continued
 to rise under Mrs. Thatcher, capital expenditures have not. Under both
@@ -785,6 +976,119 @@ tightening has fallen largely on public sector investment items.
 According to the classic canons of public finance that we alluded to
 earlier, this structure of expenditure cuts is perverse from the
 viewpoint of anti-inflationary policy.
+
+(tab-46)=
+**Table 4.6.** Gross Domestic Fixed Capital Formation by Sector
+
+|  |  | Total | Private sector | General government | Public corporations |
+| --- | --- | --- | --- | --- | --- |
+| 1969 |  | 18,954 | 10,390 | 5,385 | 3,201 |
+| 1970 |  | 19,460 | 10,685 | 5,475 | 3,316 |
+| 1971 |  | 19,743 | 11,099 | 5,297 | 3,334 |
+| 1972 |  | 19,823 | 11,776 | 5,076 | 2,932 |
+| 1973 |  | 21,195 | 12,267 | 5,793 | 3,135 |
+| 1974 |  | 20,616 | 11,641 | 5,418 | 3,557 |
+| 1975 |  | 20,417 | 11,530 | 4,974 | 3,913 |
+| 1976 |  | 20,636 | 11,811 | 4,786 | 4,039 |
+| 1977 |  | 20,089 | 12,438 | 3,964 | 3,687 |
+| 1978 |  | 20,802 | 13,793 | 3,520 | 3,489 |
+| 1979 |  | 20,506 | 13,761 | 3,352 | 3,393 |
+| 1975 | 1 | 5,112 | 2,916 | 1,239 | 957 |
+|  | 2 | 5,086 | 2,846 | 1,306 | 934 |
+|  | 3 | 5,178 | 2,986 | 1,165 | 1,027 |
+|  | 4 | 5,041 | 2,782 | 1,264 | 995 |
+| 1976 | 1 | 5,226 | 2,844 | 1,280 | 1,102 |
+|  | 2 | 5,158 | 2,920 | 1,226 | 1,012 |
+|  | 3 | 5,203 | 3,097 | 1,156 | 950 |
+|  | 4 | 5,049 | 2,950 | 1,124 | 975 |
+| 1977 | 1 | 4,883 | 2,892 | 1,079 | 912 |
+|  | 2 | 5,065 | 3,149 | 988 | 928 |
+|  | 3 | 4,997 | 3,119 | 953 | 925 |
+|  | 4 | 5,144 | 3,278 | 944 | 922 |
+| 1978 | 1 | 5,287 | 3,493 | 938 | 856 |
+|  | 2 | 5,282 | 3,499 | 899 | 894 |
+|  | 3 | 5,136 | 3,401 | 868 | 867 |
+|  | 4 | 5,097 | 3,400 | 825 | 872 |
+| 1979 | 1 | 4,998 | 3,318 | 818 | 862 |
+|  | 2 | 5,052 | 3,401 | 820 | 831 |
+|  | 3 | 5,182 | 3,436 | 882 | 864 |
+|  | 4 | 5,274 | 3,606 | 832 | 836 |
+| 1980 | 1 | 5,169 | 3,547 | 765 | 857 |
+|  | 2 | 5,058 | 3,429 | 741 | 888 |
+|  | 3 | 4,923 | 3,357 | 719 | 847 |
+|  | 4 |  |  |  |  |
+
+
+(tab-49)=
+**Table 4.9.** Financial Transactions of the Public Sector in £ million
+
+|  |  |  | Financial deficit |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Total | General government | Public corporations | Net lending, etc., to private sector and overseas | Total |
+| 1971 |  | 300 | $-$786 | 1,086 | 620 | 920 |
+| 1972 |  | 1,547 | 804 | 743 | 558 | 2,105 |
+| 1973 |  | 2,764 | 1,997 | 767 | 880 | 3,644 |
+| 1974 |  | 4,695 | 3,165 | 1,530 | 1,697 | 6,392 |
+| 1975 |  | 7,705 | 4,912 | 2,793 | 1,833 | 9,538 |
+| 1976 |  | 8,413 | 6,159 | 2,254 | 1,286 | 9,699 |
+| 1977 |  | 5,868 | 4,639 | 1,229 | 126 | 5,994 |
+| 1978 |  | 8,048 | 6,973 | 1,075 | 467 | 8,515 |
+| 1979 |  | 8,344 | 6,227 | 2,117 | 432 | 8,776 |
+| 1979 | 1 | 2,329 | 1,782 | 547 | 167 | 2,496 |
+|  | 2 | 1,823 | 1,416 | 407 | 224 | 2,047 |
+|  | 3 | 2,636 | 1,623 | 1,013 | 104 | 2,740 |
+|  | 4 | 1,556 | 1,406 | 150 | $-$63 | 1,493 |
+| 1980 | 1 | 1,700 | 1,226 | 474 | $-$128 | 1,572 |
+|  | 2 | 3,543 | 2,646 | 897 | 490 | 4,033 |
+
+*(continued)*
+
+| Receipts |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Public sector borrowing requirement |  |  |  |  |  |
+| Financial transactions (net receipts) | Total | Contributions by central government | Contributions by local authorities | Contributions by public corporations | Seasonally adjusted total |
+| $-$483 | 1,403 | 637 | 676 | 90 | 1,403 |
+| 55 | 2,050 | 1,600 | 514 | $-$64 | 2,050 |
+| $-$547 | 4,191 | 2,331 | 1,348 | 512 | 4,191 |
+| $-$41 | 6,433 | 3,523 | 2,161 | 749 | 6,433 |
+| $-$946 | 10,484 | 8,345 | 1,629 | 510 | 10,484 |
+| 572 | 9,127 | 6,786 | 1,103 | 1,238 | 9,127 |
+| $-$1 | 5,995 | 4,469 | 183 | 1,343 | 5,995 |
+| 184 | 8,331 | 8,371 | 659 | $-$699 | 8,331 |
+| $-$3,788 | 12,564 | 10,396 | 1,732 | 436 | 12,564 |
+| 1,031 | 1,465 | 247 | 1,003 | 215 | 2,117 |
+| $-$1,298 | 3,345 | 3,797 | $-$267 | $-$185 | 3,006 |
+| $-$1,085 | 3,825 | 2,842 | 666 | 317 | 3,893 |
+| $-$2,436 | 3,929 | 3,510 | 330 | 89 | 3,548 |
+| 2,771 | $-$1,199 | $-$1,950 | 1,397 | $-$646 | 131 |
+| $-$802 | 4,835 | 4,587 | 574 | $-$326 | 4,122 |
+
+*(continued)*
+
+|  |  |  | Classification by maturity |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Total stocks | Redemptions and conversions | Up to 1 year | Over 1 and up to 5 years | Over 5 and up to 15 years | Over 15 years and dated |
+| Financial years |  |  |  |  |  |  |
+| 1975/76 | $+$4159 | $-$735 | $-$1120 | $+$2196 | $+$1008 | $+$2810 |
+| 1976/77 | $+$6290 | $-$703 | $-$1402 | $+$2600 | $+$817 | $+$4978 |
+| 1977/78 | $+$6684 | $-$672 | $-$2259 | $+$2931 | $+$2826 | $+$3858 |
+| 1978/79 | $+$6256 | $-$404 | $+$1098 | $+$1994 | $+$1441 | $+$4323 |
+| 1979/80 | $+$8977 | $-$1133 | $-$2068 | $-$2333 | $+$2905 | $+$6940 |
+| Quarter ended |  |  |  |  |  |  |
+| 1978 |  |  |  |  |  |  |
+| Sept. | $+$793 | $-$151 | $-$364 | $+$257 | $+$154 | $+$897 |
+| Dec. | $+$1288 | $-$16 | $-$57 | $+$2 | $+$802 | $+$557 |
+| 1979 |  |  |  |  |  |  |
+| Mar. | $+$2254 | $-$234 | $-$324 | $+$824 | $+$486 | $+$1502 |
+| June | $+$2732 | $-$1 | $-$314 | $+$358 | $+$1159 | $+$1530 |
+| Sept. | $+$2648 | $-$403 | $-$932 | $+$1062 | $+$496 | $+$2425 |
+| Dec. | $+$2511 | $-$431 | $-$178 | $+$159 | $+$1317 | $+$1644 |
+| 1980 |  |  |  |  |  |  |
+| Mar. | $+$1086 | $-$298 | $-$644 | $+$754 | $-$67 | $+$1341 |
+| June | $+$3377 | $-$544 | $-$574 | $+$1358 | $+$943 | $+$2194 |
+| Sept. | $+$3186 | $-$19 | $-$136 | $-$261 | $+$3130 | $+$472 |
+| Dec. | $+$3055 | $-$263 | $-$734 | $+$1186 | $+$1425 | $+$1441 |
+
 
 ```{figure} ../figures/04-01_Sargent_fig.png
 :name: fig-fig41
@@ -1165,82 +1469,10 @@ to legislate taxes and expenditures. Decentralized situations
 like this are the fields on which games of chicken might better be
 played.
 
-```{table} French Wholesale Price Index Base 1913 $=$ 100, 1913 from 1901–10 index $=$115.6
-:name: tab-41
+## Tables
 
-| Year | Jan. | Feb. | March | April | May | June |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1923 | 386.9 | 421.8 | 424.0 | 414.7 | 406.5 | 408.7 |
-| 1924 | 494.0 | 543.7 | 499.3 | 450.0 | 458.5 | 465.3 |
-| 1925 | 514.4 | 515.0 | 513.5 | 512.8 | 519.8 | 542.6 |
-| 1926 | 633.5 | 635.6 | 631.8 | 650.1 | 687.9 | 738.4 |
-| 1927 | 621.8 | 631.6 | 641.4 | 636.5 | 628.6 | 622.6 |
-|  | July | Aug. | Sept. | Oct. | Nov. | Dec. |
-|  | 406.7 | 413.1 | 423.6 | 420.5 | 442.9 | 458.6 |
-|  | 481.0 | 476.6 | 485.6 | 497.1 | 503.5 | 507.2 |
-|  | 556.8 | 557.2 | 555.7 | 572.3 | 605.5 | 632.4 |
-|  | 836.2 | 769.5 | 786.9 | 751.5 | 683.8 | 626.5 |
-|  | 619.9 | 617.9 | 600.3 | 587.5 |  |  |
-```
-
-*Source: League of Nations Bulletin, Haig (1929, p. 448).*
-
-```{table} Dollar Exchange in Paris
-:name: tab-42
-
-|  | 1923 | 1924 | 1925 | 1926 | 1927 |
-| --- | --- | --- | --- | --- | --- |
-| January | 15.57 | 21.74 | 18.49 | 26.77 | 25.32 |
-| February | 16.45 | 25.57 | 19.38 | 27.49 | 25.55 |
-| March | 15.23 | 18.32 | 19.06 | 28.65 | 25.54 |
-| April | 14.84 | 15.45 | 19.20 | 30.15 | 25.53 |
-| May | 15.15 | 18.80 | 19.83 | 30.60 | 25.53 |
-| June | 16.32 | 18.88 | 21.56 | 34.93 | 25.54 |
-| July | 16.84 | 19.86 | 21.11 | 41.15 | 25.56 |
-| August | 17.65 | 18.48 | 21.30 | 35.12 | 25.51 |
-| September | 16.15 | 18.96 | 21.12 | 35.66 | 25.48 |
-| October | 17.19 | 19.13 | 23.92 | 32.52 | 25.47 |
-| November | 18.51 | 18.82 | 26.09 | 28.11 | 25.43 |
-| December | 19.59 | 18.56 | 26.90 | 25.25 | 25.40 |
-```
-
-**Note*: Averages of daily rates for final weeks of each month, francs per dollar.*
-
-```{table}
-:name: tab-43
-
-|  | (1) GDP at current prices based on expenditure data | (2) GDP at 1975 prices based on expenditure data | Implicit price deflator 1975 = 100 (column 1 divided by column 2)$\times$ 100 | GDP at market prices | Consumers' expenditure |
-| --- | --- | --- | --- | --- | --- |
-| 1970 | 43,532 | 85,402 | 50.97 | 51,065 | 31,778 |
-| 1971 | 49,442 | 87,572 | 56.46 | 57,291 | 35,599 |
-| 1972 | 55,276 | 88,719 | 62.30 | 63,390 | 40,183 |
-| 1973 | 64,258 | 95,506 | 67.28 | 72,936 | 47,759 |
-| 1974 | 74,414 | 94,527 | 78.72 | 82,879 | 52,849 |
-| 1975 | 93,954 | 93,954 | 100.00 | 104,413 | 64,424 |
-| 1976 | 111,245 | 97,971 | 113.55 | 124,330 | 74,751 |
-| 1977 | 126,111 | 98,993 | 127.39 | 143,064 | 85,474 |
-| 1978 | 144,442 | 101,929 | 141.71 | 164,034 | 98,395 |
-| 1979 | 163,647 | 102,563 | 159.56 | 189,702 | 114,805 |
-```
-
-```{table}
-
-| General government final consumption | Gross domestic fixed capital formation | Value of physical increase in stocks and work in progress | Exports of goods and services | Imports of goods and services | Taxes on expenditure | Subsidies |
-| --- | --- | --- | --- | --- | --- | --- |
-| 8,991 | 9,470 | 421 | 11,551 | 11,146 | 8,417 | 884 |
-| 10,250 | 10,517 | 158 | 12,960 | 12,193 | 8,788 | 939 |
-| 11,675 | 11,606 | 44 | 13,653 | 13,771 | 9,627 | 1,153 |
-| 13,380 | 14,238 | 1,448 | 17,124 | 19,013 | 10,121 | 1,443 |
-| 16,609 | 16,867 | 1,304 | 22,985 | 27,375 | 11,469 | 3,004 |
-| 23,074 | 20,417 | 1,534 | 27,011 | 28,979 | 14,162 | 3,703 |
-| 26,779 | 23,599 | 864 | 35,211 | 36,874 | 16,553 | 3,468 |
-| 26,209 | 25,739 | 1,860 | 43,352 | 42,570 | 20,252 | 3,299 |
-| 32,934 | 26,695 | 1,070 | 47,442 | 45,502 | 23,253 | 3,661 |
-| 38,316 | 33,646 | 2,760 | 54,676 | 54,501 | 30,361 | 4,306 |
-```
-
-```{table} Exchange, Price, and Balance
-:name: tab-44
+(tab-44)=
+**Table 4.4.** Exchange, Price, and Balance
 
 |  |  |  |  | Retail price (1975 = 100) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1278,10 +1510,10 @@ played.
 |  | 4 | $+$1,885 | 2.387 | 203.2 | 15.3 |
 | 1981 | Jan. | $+$1,042 | 2.405 | 205.7 | 13.0 |
 |  | Feb. | $+$614 | 2.294 | 207.6 | 12.5 |
-```
 
-```{table} Output and Unemployment
-:name: tab-45
+
+(tab-45)=
+**Table 4.5.** Output and Unemployment
 
 |  |  | GDP (at 1975 factor cost, £ million | Industrial production (1975 = 100, seasonally adjusted) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1316,52 +1548,10 @@ played.
 |  | 2 | 25,445 | 106.6 | 96.8 | 6.2 |
 |  | 3 | 24,991 | 102.9 | 93.3 | 7.0 |
 |  | 4 |  | 100.2 | 89.1 | 8.4 |
-```
 
-```{table} Gross Domestic Fixed Capital Formation by Sector
-:name: tab-46
 
-|  |  | Total | Private sector | General government | Public corporations |
-| --- | --- | --- | --- | --- | --- |
-| 1969 |  | 18,954 | 10,390 | 5,385 | 3,201 |
-| 1970 |  | 19,460 | 10,685 | 5,475 | 3,316 |
-| 1971 |  | 19,743 | 11,099 | 5,297 | 3,334 |
-| 1972 |  | 19,823 | 11,776 | 5,076 | 2,932 |
-| 1973 |  | 21,195 | 12,267 | 5,793 | 3,135 |
-| 1974 |  | 20,616 | 11,641 | 5,418 | 3,557 |
-| 1975 |  | 20,417 | 11,530 | 4,974 | 3,913 |
-| 1976 |  | 20,636 | 11,811 | 4,786 | 4,039 |
-| 1977 |  | 20,089 | 12,438 | 3,964 | 3,687 |
-| 1978 |  | 20,802 | 13,793 | 3,520 | 3,489 |
-| 1979 |  | 20,506 | 13,761 | 3,352 | 3,393 |
-| 1975 | 1 | 5,112 | 2,916 | 1,239 | 957 |
-|  | 2 | 5,086 | 2,846 | 1,306 | 934 |
-|  | 3 | 5,178 | 2,986 | 1,165 | 1,027 |
-|  | 4 | 5,041 | 2,782 | 1,264 | 995 |
-| 1976 | 1 | 5,226 | 2,844 | 1,280 | 1,102 |
-|  | 2 | 5,158 | 2,920 | 1,226 | 1,012 |
-|  | 3 | 5,203 | 3,097 | 1,156 | 950 |
-|  | 4 | 5,049 | 2,950 | 1,124 | 975 |
-| 1977 | 1 | 4,883 | 2,892 | 1,079 | 912 |
-|  | 2 | 5,065 | 3,149 | 988 | 928 |
-|  | 3 | 4,997 | 3,119 | 953 | 925 |
-|  | 4 | 5,144 | 3,278 | 944 | 922 |
-| 1978 | 1 | 5,287 | 3,493 | 938 | 856 |
-|  | 2 | 5,282 | 3,499 | 899 | 894 |
-|  | 3 | 5,136 | 3,401 | 868 | 867 |
-|  | 4 | 5,097 | 3,400 | 825 | 872 |
-| 1979 | 1 | 4,998 | 3,318 | 818 | 862 |
-|  | 2 | 5,052 | 3,401 | 820 | 831 |
-|  | 3 | 5,182 | 3,436 | 882 | 864 |
-|  | 4 | 5,274 | 3,606 | 832 | 836 |
-| 1980 | 1 | 5,169 | 3,547 | 765 | 857 |
-|  | 2 | 5,058 | 3,429 | 741 | 888 |
-|  | 3 | 4,923 | 3,357 | 719 | 847 |
-|  | 4 |  |  |  |  |
-```
-
-```{table} Money Supply in the United Kingdom in £ million: amounts outstanding
-:name: tab-47
+(tab-47)=
+**Table 4.7.** Money Supply in the United Kingdom in £ million: amounts outstanding
 
 |  |  | Seasonally adjusted |  |  |
 | --- | --- | --- | --- | --- |
@@ -1394,9 +1584,8 @@ played.
 |  | 2 | 18,530 | 33,790 | 42,210 |
 |  | 3 | 19,100 | 40,300 | 44,310 |
 |  | 4 | 18,980 | 40,380 | 44,470 |
-```
 
-```{table}
+*(continued)*
 
 |  |  | Seasonally adjusted |  |  |
 | --- | --- | --- | --- | --- |
@@ -1417,10 +1606,10 @@ played.
 |  | 2 | 30,110 | 62,570 | 68,140 |
 |  | 3 | 29,780 | 65,340 | 71,200 |
 |  | 4 | 30,520 | 68,350 | 74,870 |
-```
 
-```{table} General Government Receipts and Expenditure in £ million
-:name: tab-48
+
+(tab-48)=
+**Table 4.8.** General Government Receipts and Expenditure in £ million
 
 |  |  | Receipts |  | Expenditure |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1446,11 +1635,10 @@ played.
 |  | 2 | 18,713 | 2,136 | 11,656 | 1,144 |
 |  | 3 | 21,811 | 2,157 | 12,386 | 1,415 |
 |  | 4 |  |  |  |  |
-```
 
 **Note*: An article describing the new presentation of government income and expenditure was published in the March 1977 issue of *Economic Trends*.*
 
-```{table}
+*(continued)*
 
 | Expenditure |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1476,197 +1664,5 @@ played.
 | 7,747 | 576 | 3,149 | 152 | 24,196 |
 | 8,145 | 521 | 2,209 | 1,444 | 25,119 |
 | 8,075 | 618 | 3,299 | 1,185 | 26,978 |
-```
 
 *$^a$ Net lending to public corporations, private sector and overseas; cash expenditure on company securities, etc. (net).*
-
-```{table} Financial Transactions of the Public Sector in £ million
-:name: tab-49
-
-|  |  |  | Financial deficit |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | Total | General government | Public corporations | Net lending, etc., to private sector and overseas | Total |
-| 1971 |  | 300 | $-$786 | 1,086 | 620 | 920 |
-| 1972 |  | 1,547 | 804 | 743 | 558 | 2,105 |
-| 1973 |  | 2,764 | 1,997 | 767 | 880 | 3,644 |
-| 1974 |  | 4,695 | 3,165 | 1,530 | 1,697 | 6,392 |
-| 1975 |  | 7,705 | 4,912 | 2,793 | 1,833 | 9,538 |
-| 1976 |  | 8,413 | 6,159 | 2,254 | 1,286 | 9,699 |
-| 1977 |  | 5,868 | 4,639 | 1,229 | 126 | 5,994 |
-| 1978 |  | 8,048 | 6,973 | 1,075 | 467 | 8,515 |
-| 1979 |  | 8,344 | 6,227 | 2,117 | 432 | 8,776 |
-| 1979 | 1 | 2,329 | 1,782 | 547 | 167 | 2,496 |
-|  | 2 | 1,823 | 1,416 | 407 | 224 | 2,047 |
-|  | 3 | 2,636 | 1,623 | 1,013 | 104 | 2,740 |
-|  | 4 | 1,556 | 1,406 | 150 | $-$63 | 1,493 |
-| 1980 | 1 | 1,700 | 1,226 | 474 | $-$128 | 1,572 |
-|  | 2 | 3,543 | 2,646 | 897 | 490 | 4,033 |
-```
-
-```{table}
-
-| Receipts |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Public sector borrowing requirement |  |  |  |  |  |
-| Financial transactions (net receipts) | Total | Contributions by central government | Contributions by local authorities | Contributions by public corporations | Seasonally adjusted total |
-| $-$483 | 1,403 | 637 | 676 | 90 | 1,403 |
-| 55 | 2,050 | 1,600 | 514 | $-$64 | 2,050 |
-| $-$547 | 4,191 | 2,331 | 1,348 | 512 | 4,191 |
-| $-$41 | 6,433 | 3,523 | 2,161 | 749 | 6,433 |
-| $-$946 | 10,484 | 8,345 | 1,629 | 510 | 10,484 |
-| 572 | 9,127 | 6,786 | 1,103 | 1,238 | 9,127 |
-| $-$1 | 5,995 | 4,469 | 183 | 1,343 | 5,995 |
-| 184 | 8,331 | 8,371 | 659 | $-$699 | 8,331 |
-| $-$3,788 | 12,564 | 10,396 | 1,732 | 436 | 12,564 |
-| 1,031 | 1,465 | 247 | 1,003 | 215 | 2,117 |
-| $-$1,298 | 3,345 | 3,797 | $-$267 | $-$185 | 3,006 |
-| $-$1,085 | 3,825 | 2,842 | 666 | 317 | 3,893 |
-| $-$2,436 | 3,929 | 3,510 | 330 | 89 | 3,548 |
-| 2,771 | $-$1,199 | $-$1,950 | 1,397 | $-$646 | 131 |
-| $-$802 | 4,835 | 4,587 | 574 | $-$326 | 4,122 |
-```
-
-```{table}
-
-|  |  |  | Classification by maturity |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Total stocks | Redemptions and conversions | Up to 1 year | Over 1 and up to 5 years | Over 5 and up to 15 years | Over 15 years and dated |
-| Financial years |  |  |  |  |  |  |
-| 1975/76 | $+$4159 | $-$735 | $-$1120 | $+$2196 | $+$1008 | $+$2810 |
-| 1976/77 | $+$6290 | $-$703 | $-$1402 | $+$2600 | $+$817 | $+$4978 |
-| 1977/78 | $+$6684 | $-$672 | $-$2259 | $+$2931 | $+$2826 | $+$3858 |
-| 1978/79 | $+$6256 | $-$404 | $+$1098 | $+$1994 | $+$1441 | $+$4323 |
-| 1979/80 | $+$8977 | $-$1133 | $-$2068 | $-$2333 | $+$2905 | $+$6940 |
-| Quarter ended |  |  |  |  |  |  |
-| 1978 |  |  |  |  |  |  |
-| Sept. | $+$793 | $-$151 | $-$364 | $+$257 | $+$154 | $+$897 |
-| Dec. | $+$1288 | $-$16 | $-$57 | $+$2 | $+$802 | $+$557 |
-| 1979 |  |  |  |  |  |  |
-| Mar. | $+$2254 | $-$234 | $-$324 | $+$824 | $+$486 | $+$1502 |
-| June | $+$2732 | $-$1 | $-$314 | $+$358 | $+$1159 | $+$1530 |
-| Sept. | $+$2648 | $-$403 | $-$932 | $+$1062 | $+$496 | $+$2425 |
-| Dec. | $+$2511 | $-$431 | $-$178 | $+$159 | $+$1317 | $+$1644 |
-| 1980 |  |  |  |  |  |  |
-| Mar. | $+$1086 | $-$298 | $-$644 | $+$754 | $-$67 | $+$1341 |
-| June | $+$3377 | $-$544 | $-$574 | $+$1358 | $+$943 | $+$2194 |
-| Sept. | $+$3186 | $-$19 | $-$136 | $-$261 | $+$3130 | $+$472 |
-| Dec. | $+$3055 | $-$263 | $-$734 | $+$1186 | $+$1425 | $+$1441 |
-```
-
-```{table}
-:name: tab-411
-
-|  | Short-dated (5 years) | Medium-dated (10 years) | Long-dated (20 years) |
-| --- | --- | --- | --- |
-| Last working days |  |  |  |
-| 1980 |  |  |  |
-| Oct. | 13.15 | 13.29 | 13.15 |
-| Nov. | 12.97 | 13.43 | 13.35 |
-| Dec. | 13.30 | 13.89 | 13.80 |
-| 1981 |  |  |  |
-| Jan. | 13.21 | 13.86 | 13.86 |
-| Feb. | 13.00 | 13.84 | 13.94 |
-| Mondays |  |  |  |
-| 1980 |  |  |  |
-| Oct. 20 | 13.07 | 13.33 | 13.23 |
-| Oct. 27 | 12.93 | 13.07 | 12.95 |
-| Nov. 3 | 13.29 | 13.40 | 13.24 |
-| Nov. 10 | 13.38 | 13.53 | 13.35 |
-| Nov. 17 | 13.11 | 13.26 | 13.10 |
-| Nov. 24 | 13.03 | 13.22 | 13.08 |
-| Dec. 1 | 12.95 | 13.34 | 13.26 |
-| Dec. 8 | 13.04 | 13.44 | 13.34 |
-| Dec. 15 | 13.62 | 14.08 | 13.94 |
-| Dec. 22 | 13.18 | 13.79 | 13.70 |
-| Dec. 29 | 13.28 | 13.88 | 13.80 |
-| 1981 |  |  |  |
-| Jan. 5 | 13.19 | 13.89 | 13.85 |
-| Jan. 12 | 13.38 | 14.06 | 14.02 |
-| Jan. 19 | 13.30 | 14.05 | 14.06 |
-| Jan. 26 | 13.29 | 13.95 | 13.95 |
-| Feb. 2 | 13.19 | 13.83 | 13.83 |
-| Feb. 9 | 13.29 | 13.89 | 13.90 |
-| Feb. 16 | 13.24 | 13.92 | 13.94 |
-| Feb. 23 | 12.97 | 13.83 | 13.93 |
-| Mar. 2 | 13.03 | 13.87 | 13.97 |
-| Mar. 9 | 13.15 | 13.95 | 14.03 |
-| Mar. 16 | 12.85 | 13.59 | 13.63 |
-```
-
-```{table} Interest Rates, Security Prices, and Yields percentage rate
-:name: tab-412
-
-|  | Last Friday |  | Last working day |  | Average of working days |
-| --- | --- | --- | --- | --- | --- |
-|  | Bank of England's minimum lending rate to the market | Treasury bill yield | Eurodollar 3-month rate | Building Societies Association recommended rate on shares | British government securities: long-dated (20 years) |
-| 1969 | 8 | 7.80 | 10.07 | 5.00 | 9.05 |
-| 1970 | 7 | 6.93 | 6.57 | 5.00 | 9.25 |
-| 1971 | 5 | 4.46 | 5.75 | 5.00 | 8.90 |
-| 1972 | 9 | 8.48 | 5.91 | 5.25 | 8.97 |
-| 1973 | 13 | 12.82 | 10.19 | 7.50 | 10.78 |
-| 1974 | 11.50 | 11.30 | 10.07 | 7.50 | 14.77 |
-| 1975 | 11.25 | 10.93 | 5.88 | 7.00 | 14.39 |
-| 1976 | 14.25 | 13.98 | 5.07 | 7.80 | 14.43 |
-| 1977 | 7 | 6.39 | 7.19 | 6.00 | 12.73 |
-| 1978 | 12.50 | 11.91 | 11.69 | 8.00 | 12.47 |
-| 1979 | 17 | 16.49 | 14.50 | 10.50 | 12.99 |
-| 1980 | 14 | 13.45 | 17.75 | 10.50 |  |
-```
-
-[^1]: Robert {cite:t}`Barro:1977` has pointed out that after a change in policy regime, it can happen that it is in the interests of neither party to enforce some long-term contracts of the Taylor-Fischer variety that had been agreed upon before the regime change. Presumably such contracts would never be enforced.
-
-[^2]: Leland {cite:t}`Yeager:1976`, 472 summarizes British postwar macroeconomic policy as follows: “The rapid reversibility of British policy $\ldots$ has been almost comical at times. Balance-of-payments troubles have brought a variety of *ad hoc* responses, including two devaluations and one abandonment of exchange rate pegging, the selective Employment Tax of 1966, the import surcharge of 1964, the import deposit scheme of 1968, the tightening and loosening of various exchange controls on current and capital transactions, and various attempts at wage and price control, as well as turnarounds in domestic financial policy. Reliance on such expedients creates chances of improper timing, of anticipatory private actions, of overshooting the mark, and of intensified instability as a result.”
-
-[^3]: It goes without saying that the “credibility” that is essential under the rational expectations theory cannot be manipulated by promises or government announcements.
-
-[^4]: Rudiger Dornbusch made this argument in oral comments on Chapter 3 of this book.
-
-[^5]: The reader is referred to the accounts of post–World War I stabilizations in {cite:t}`Brown:1940` and {cite:t}`Young:1925`. For example, the Italian stabilization might as easily have served as our example as the French one. {cite:t}`Brown:1940`, 431 quotes Count Volpi's account of the important aspects of the plan that the Italian government used to stabilize the lira: 1. 2. Balancing of the national budget. 3. Consolidation of war debts. 4. Unification of the note issue and its concentration in the hands of the Bank of Italy. 5. Progressive and more efficient utilization of Italian resources and raw materials. 6. Gradual deflation in currency and in credit. 7. Consolidation of the floating debt and reorganization in the Treasury Department. 8. Regulation of the influx of foreign capital into Italian industry. 9. Reorganization in the whole field of production, and readjustment of taxes with a view to increased industrial efficiency. 10. Gradual amortization of the domestic debt. 11. Defense of the treasury surplus by the reduction of state expenditures. Count Volpi was the “architect of Italy's return to gold.”
-
-[^6]: Interesting accounts of the “Poincaré miracle” appear in {cite:t}`Shirer:1969`, {cite:t}`Yeager:1976`, {cite:t}`Alpert:1951`, {cite:t}`Haig:1929`, and {cite:t}`Rogers:1929`.
-
-[^7]: William {cite:t}`Shirer:1969` describes this struggle.
-
-[^8]: Another element of uncertainty was injected by the substantial war debts owed by the United States, coupled with the French belief that the United States should not insist that these be repaid.
-
-[^9]: For accounts of the effects of war debts and reparations on the public finances and currencies in Europe after World War I, see {cite:t}`Yeager:1976` and {cite:t}`Alpert:1951`.
-
-[^10]: The strength and endurance of French politicians' resolve not to repeat such a default was indicated by the fact that France was the last of the major countries to devalue its currency in terms of gold in the 1930s: France devalued in 1936, while England did so in 1931 and the United States in 1933.
-
-[^11]: Stanley {cite:t}`Fischer:1981` provides a more complete discussion of this issue and the other issues described in this paragraph. {cite:t}`Bryant/Wallace:1980` discuss optimal seigniorage from the viewpoint of price discrimination. They describe setups in which a government can find it worthwhile to issue an array of debt with differing yields, tailored to segments of the market with differing interest elasticities of demand for government debt. Applying their idea to the issue in the present discussion, setups can be imagined where the domestic country arranges to hold high-yielding foreign government debt and where it is in the interests of both the foreign and the domestic country to permit the domestic country to back its monetary liabilities by the higher-yielding foreign government debt rather than the lower-yielding debt.
-
-[^12]: John {cite:t}`Bilson:1980` describes a scheme of this sort that can lead to a positive real return on government-issued or privately issued “currency” through a process of deflation.
-
-[^13]: Presumably, a rule in which *k* is a small number.
-
-[^14]: In the literature it has been pointed out that such a *k*-percent rule implies an explosive path for the government interest-bearing debt. As Bennett {cite:t}`McCallum:1978` has pointed out, depending on the precise specification of the model, that fact may or may not imply that other variables in the model that are of interest are unstable.
-
-[^15]: The recent issue of indexed bonds in England sold at a real rate of interest of about 2 percent.
-
-[^16]: This issue was central to the struggle for the post–World War I stabilizations.
-
-[^17]: From the technical viewpoint of controlling monetary aggregates, the banking and financial intermediary systems in the United Kingdom differ in important respects from those in the United States. First, in the United Kingdom banking is more concentrated, there being five main “Clearing Banks.” Second, in the British assets eligible to meet the 12.5 percent reserve requirement include all of the following interest-bearing assets: money at call from discount houses, treasury bills and other short-term government securities, local authority paper, corporate tax anticipation certificates, and bills of exchange. Notice that some of these assets are evidences of government indebtedness, while others are private debts. Since demand deposits do not bear interest in the United Kingdom, vis-à-vis the US system, this system of reserve requirements tends to increase the banking system's share of seigniorage revenues relative to that of the government. On the other side of this issue, currency is a higher proportion of £ M1 in the United Kingdom than in the United States. Third, the building societies (the analogue of savings and loan institutions in the United States) have long issued mortgages with variable maturities and variable rates of interest both linked to the general level of market interest rates. Therefore in the United Kingdom high interest rates do not produce the disintermediation from saving institutions that is so troublesome for the conduct of monetary policy in the United States. Fourth, partly as a result of the third feature, there is no analogue of Regulation Q in the United Kingdom, and small savers have access to a variety of instruments yielding close to market rates, as for example, building society shares. This fact also explains the absence of money market funds in the United Kingdom. Fifth, the Bank of England does not lend directly to the clearing banks but instead operates a discount window for the discount houses that make markets and hold portfolios of short-term government and private securities. The minimum lending rate, formerly known as the bank rate, applies to the Bank of England's loans to the discount houses.
-
-[^18]: I have in mind the Monetary Control Act.
-
-[^19]: As in the United States, in the United Kingdom there is a bewildering variety of monetary aggregates. The main ones are £ M1, £ M3, PSL 1 (Public Sector Liquidity number 1), and PSL 2. The variety of aggregates is spawned by the vagueness of “means of payments” as a category setting off one class of assets as “money.” See {cite:t}`Sargent_Wallace_1982`.
-
-[^20]: Recall the remarks in note 17 about the way in which seigniorage is allocated between the banks and the government under the British system of reserve requirements.
-
-[^21]: This was the choice that French politicians consciously faced and struggled with from 1919 to 1926 and that politicians also face today, although perhaps less consciously.
-
-[^22]: See {cite:t}`Dornbusch:1976,Dornbusch:1980`. {cite:t}`Buiter/Miller:1981` argue that Dornbusch's idea explains contemporary observations in the United Kingdom.
-
-[^23]: One popular policy recommendation stemming from the momentum version of the model is to impose inward capital controls, for example, an interest equalization tax on the yields of British securities held by foreigners. Such a tax is presumed to weaken the pound and stimulate aggregate demand and real domestic output. See {cite:t}`Buiter/Miller:1981`.
-
-[^24]: {cite:t}`Kareken/Wallace:1981` propound a model with an extreme amount of currency substitution.
-
-[^25]: Economists have begun devoting more attention to devising ways of reducing the cost of winding down inflation. For example, Jeffrey Shaefer and Axel Leijonhufvud have recently described a kind of dynamic currency reform scheme that aims to eradicate the costs of eliminating inflation that are due to long-term contracts. To illustrate their scheme, suppose that up to date $t$, the monetary and fiscal policy regime and the other random processes that influence inflation have been such as to make it rational for private agents to expect that future prices will follow some given path ${\bar p} (t+j), j \geq 0$, where the expected price level ${\bar p} (t+j)$ is measured as usual in units of green dollars at time $t+j$ per good at time $(t+j)$. For example, if a constant rate of inflation of $\pi$ is expected, then $ \bar p (t+j) = (1 + \pi)^j p(t)$, where $p(t)$ is the actual price level at $t$. If these price expectations are built into long-term contract that have been entered into $t$ and earlier, and so form a legacy that influences actual prices and quantities at time $t+j$, then the act of bringing inflation to a sudden halt will cause substantial redistributions across traders. To the extent that actual prices turn out to be less than those expected at the time that the contracts were negotiated, real output and unemployment will be adversely affected. The idea of Shaefer and Leijonhufvud is to circumvent these costs by carrying out an imaginative kind of currency reform. The government passes a law at date $t$ that states that all contracts that call for payment of $y$ dollars at date $t+j$ can be discharged by paying only $yp(t)/\bar p (t+j)$ dollars. Thus, in the constant expected inflation case, dollars due at $t+j$ are paid off at only $1/(1+\pi)^j$ on the dollar. More important, the government successfully commits itself to run a fiscal and monetary policy that implies a stable price level so that the actual price $p(t+j)=p(t)$ for all $j \geq 1$. With a constant actual price path of $p(t+j) = p(t)$, and the new debt conversion law, both sides of all contracts end up being just as well off as if the debt conversion law had not been enacted and prices had risen as expected, $p(t+j)=\bar p (t+j)$. Thus the debt conversion law is crafted to neutralize the real effects of the monetary and fiscal policies needed to support a zero inflation price path. It is as if the government announces that it is calling in all the green-colored currency and issuing new blue-colored currency on the following terms: green dollars will be converted into blue dollars at par at time $t$, and subsequently the green dollar price of a blue dollar is ${\bar p}(t+j)/p(t)$.
-
-[^26]: These remarks were added in April 1992. I thank Joseph Bisignano and John Taylor for pointing out some oversights in my treatment of the Poincaré miracle.
-
-[^27]: On more general issues associated with the “Poincaré miracle,” I recommend the paper by John {cite:t}`Taylor:1982` and the first chapter of R. G. {cite:t}`Hawtrey:1933`. Both Hawtrey and Taylor draw attention to the contraction in output that followed the stabilization of 1926, and mention that the committee of experts had been worried about such an occurrence.
-
-[^28]: See {cite:t}`Moreau:1991`, 45–56.
-
-[^29]: Moreau also describes how two years later he opposed Poincaré's wishes to move in an opposite direction, when Poincaré wanted to set the value of the franc against gold to a level that Moreau thought too high.
