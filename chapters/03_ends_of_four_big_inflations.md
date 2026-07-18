@@ -1021,8 +1021,8 @@ only a gradual adjustment of real balances upward at the rate of $1 -
 explanation that stresses the distinction between backed and unbacked
 money.
 
-(tab-31)=
-**Austrian Budgets, 1919–22 in millions of paper crowns**
+```{table} Austrian Budgets, 1919–22 in millions of paper crowns
+:name: tab-31
 
 |  | Receipts | Expen\-ditures | Deficit | Percentage of expenditures covered by new issues of paper money |
 | --- | --- | --- | --- | --- |
@@ -1030,11 +1030,12 @@ money.
 | 1 July 1919–30 June 1920 | 6,295 | 16,873 | 10,578 | 63 |
 | 1 July 1920–30 June 1921 | 29,483 | 70,601 | 41,118 | 58 |
 | 1 January–31 December 1922 | 209,763 | 347,533 | 137,770 | 40 |
+```
 
 *Source: {cite:t}`Pasvolsky:1928`, 102.*
 
-(tab-32)=
-**Total Note Circulation of Austrian Crowns in thousands of crowns**
+```{table} Total Note Circulation of Austrian Crowns in thousands of crowns
+:name: tab-32
 
 | 1919 | January | — | 1922 | May | 397,829,313 |
 | --- | --- | --- | --- | --- | --- |
@@ -1074,11 +1075,12 @@ money.
 |  | February | 259,931,138 |  | March | 7,897,792,000 |
 |  | March | 304,063,642 |  | April | 7,976,420,000 |
 |  | April | 346,697,776 |  |  |  |
+```
 
 *Source: {cite:t}`Young:1925`, 2:292.*
 
-(tab-33)=
-**Austrian Retail Prices, 1921–24**
+```{table} Austrian Retail Prices, 1921–24
+:name: tab-33
 
 |  |  | Retail price index, 52 commodities |
 | --- | --- | --- |
@@ -1124,10 +1126,13 @@ money.
 |  | April | 23,361 |
 |  | May | 23,797 |
 |  | June | 24,267 |
+```
 
 *Source: {cite:t}`Young:1925`, 2:293.*
 
-(tab-34)=
+```{table}
+:name: tab-34
+
 |  | 1919 | 1920 | 1921 | 1922 | 1923 | 1924 |
 | --- | --- | --- | --- | --- | --- | --- |
 | January | 17.09 | 271.43 | 654.00 | 7,375.00 | 71,500.00 | 70,760.00 |
@@ -1142,11 +1147,12 @@ money.
 | October | 99.50 | 358.33 | 4,355.00 | 73,550.00 | 70,760.00 | 70,760.00 |
 | November | 130.00 | 493.66 | 8,520.00 | 71,400.00 | 70,760.00 | 70,760.00 |
 | December | 155.00 | 659.40 | 5,275.00 | 70,925.00 | 70,760.00 | 70,760.00 |
+```
 
 *Source: {cite:t}`Young:1925`, 2:294.*
 
-(tab-35)=
-**The Austrian Budget, 1923–25 in millions of schillings**
+```{table} The Austrian Budget, 1923–25 in millions of schillings
+:name: tab-35
 
 |  | Closed accounts |  |  |
 | --- | --- | --- | --- |
@@ -1156,13 +1162,14 @@ money.
 | Deficit ($-$) or surplus ($+$) | $-$82.2 | $+$90.6 | $+$167.1 |
 | Capital expenditures | 76.0 | 103.6 | 90.6 |
 | Total balance | $-$158.2 | $-$13.0 | $+$76.5 |
+```
 
 *Source: {cite:t}`Pasvolsky:1928`, 127.*
 
 **Note:* 1 schilling = 10,000 paper crowns.*
 
-(tab-36)=
-**Austrian National Bank Balance Sheet in millions of crowns**
+```{table} Austrian National Bank Balance Sheet in millions of crowns
+:name: tab-36
 
 |  | Gold | Foreign exchange and currency | Loans and discounts | Treasury bills | Notes in circulation | Deposits |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1197,11 +1204,12 @@ money.
 | February | 111,474 | 3,310,032 | 1,285,158 | 2,150,151 | 7,957,242 | 315,771 |
 | March | 111,649 | 3,202,802 | 1,047,719 | 2,107,949 | 7,897,792 | 295,498 |
 | April | 112,168 | 3,474,672 | 1,059,069 | 2,088,777 | 7,976,420 | 236,957 |
+```
 
 *Source: {cite:t}`Young:1925`, 2:291.*
 
-(tab-37)=
-**Number of Austrian Unemployed in Receipt of Relief in thousands**
+```{table} Number of Austrian Unemployed in Receipt of Relief in thousands
+:name: tab-37
 
 | Beginning of | 1922 | 1923 | 1924 | 1925 | 1926 |
 | --- | --- | --- | --- | --- | --- |
@@ -1209,11 +1217,12 @@ money.
 | April | 42 | 153 | 107 | 176 | 202 |
 | July | 33 | 93 | 64 | 118 | 151 |
 | October | 38 | 79 | 78 | 119 | 148 |
+```
 
 *Source: {cite:t}`League-of-Nations:1926`, 87.*
 
-(tab-38)=
-**Hungarian Budget Estimates, 1920–24 in millions of paper crowns**
+```{table} Hungarian Budget Estimates, 1920–24 in millions of paper crowns
+:name: tab-38
 
 |  | Revenue | Expenditures | Deficit | Percentage of expenditures covered by issues of paper money |
 | --- | --- | --- | --- | --- |
@@ -1221,11 +1230,12 @@ money.
 | 1921–22 | 20,296 | 26,764 | 6,468 | 24.1 |
 | 1922–23 | 152,802 | 193,455 | 40,653 | 21.0 |
 | 1923–24 | 2,168,140 | 3,307,099 | 1,138,959 | 34.4 |
+```
 
 *Source: {cite:t}`Pasvolsky:1928`, 299.*
 
-(tab-39)=
-**Balance Sheet of Hungarian Central Bank or State Note Institute in millions of kronen**
+```{table} Balance Sheet of Hungarian Central Bank or State Note Institute in millions of kronen
+:name: tab-39
 
 |  | Gold coin and bullion | Silver coin | Foreign currency and exchange | Bills discounted |
 | --- | --- | --- | --- | --- |
@@ -1261,6 +1271,9 @@ money.
 | March | 23 | 1 | — | 71,284 |
 | April | 23 | 1 | — | 83,800 |
 | May | 23 | 1 | — | 93,396 |
+```
+
+```{table}
 
 | Advances on securities | Advances to treasury | Notes in circulation | Current accounts and deposits |
 | --- | --- | --- | --- |
@@ -1293,6 +1306,9 @@ money.
 | 2,584 | 29,000 | 82,205 | 11,152 |
 | 2,817 | 37,000 | 100,101 | 9,793 |
 | 1,763 | 47,200 | 119,285 | 10,609 |
+```
+
+```{table}
 
 |  | Gold coin and bullion | Silver coin | Foreign currency and exchange | Bills discounted |
 | --- | --- | --- | --- | --- |
@@ -1321,12 +1337,15 @@ money.
 | February | 596,334 | 12,374 | 1,989,096 | 1,676,594 |
 | March | 669,107 | 12,374 | 1,984,006 | 1,514,532 |
 | April | 653,534 | 12,136 | 2,081,998 | 1,485,898 |
+```
 
 *Source: {cite:t}`Young:1925`, 2:321.*
 
 **Note:* Figures prior to June 1924 are those of the State Note Institute. The Hungarian National Bank opened 24 June 1924 and took over the affairs of the institute.*
 
 *$^a$After this date gold and silver holdings are shown in terms of paper crowns. Other changes were also made in the presentation of accounts after the opening of the new Hungarian National Bank in June.*
+
+```{table}
 
 | Advances on securities | Advances to treasury | Notes in circulation | Current accounts and deposits |
 | --- | --- | --- | --- |
@@ -1353,9 +1372,10 @@ money.
 | — | 1,973,163 | 4,237,985 | 2,542,262 |
 | — | 1,969,809 | 4,270,096 | 2,552,762 |
 | — | 1,968,987 | 4,526,216 | 2,470,507 |
+```
 
-(tab-310)=
-**Hungarian Price and Exchange Rate**
+```{table} Hungarian Price and Exchange Rate
+:name: tab-310
 
 |  | Hungarian index of prices$^a$ | Cents per crown in New York |
 | --- | --- | --- |
@@ -1392,6 +1412,9 @@ money.
 | October | 587,000 | 0.0054 |
 | November | 635,000 | 0.0054 |
 | December | 714,000 | 0.0052 |
+```
+
+```{table}
 
 |  | Hungarian index of prices$^a$ | Cents per crown in New York |
 | --- | --- | --- |
@@ -1412,24 +1435,26 @@ money.
 | January | 2,307,500 | 0.0014 |
 | February | 2,218,700 | 0.0014 |
 | March | 2,117,800 | 0.0014 |
+```
 
 *Source: {cite:t}`Young:1925`, 2:323.*
 
 *$^a$From July 1921 through November 1923, the index numbers represent retail prices and are based on 60 commodities with July 1914 = 100. From December 1923 through March 1925, the figures are based on wholesale prices computed by the Hungarian Central Statistical Office. They refer to the prices of 52 commodities on the last day of the month with 1913 = 100.*
 
-(tab-311)=
-**Hungarian Budget, 1924–25 in millions of crowns**
+```{table} Hungarian Budget, 1924–25 in millions of crowns
+:name: tab-311
 
 |  | Preliminary treasury accounts |  |  | Reconstruction scheme |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Period | Receipts | Expen\-ditures | Surplus (+) or deficit | Receipts | Expen\-ditures | Surplus (+) or deficit |
 | Jul.–Dec. 1924 | 208.0 | 205.9 | +2.1 | 143.8 | 186.3 | $-$42.5 |
 | Fiscal year 1924–25 | 453.1 | 422.8 | +30.3 | 293.8 | 393.9 | $-$100.1 |
+```
 
 *Source: {cite:t}`Pasvolsky:1928`, 322.*
 
-(tab-312)=
-**Number of Unemployed in Hungary$^a$ in thousands of workers**
+```{table} Number of Unemployed in Hungary$^a$ in thousands of workers
+:name: tab-312
 
 | End of | 1924 | 1925 | 1926 |
 | --- | --- | --- | --- |
@@ -1445,13 +1470,14 @@ money.
 | October | 30 | 23 |  |
 | November | 31 | 26 |  |
 | December | 33 | 27 |  |
+```
 
 *Source: {cite:t}`League-of-Nations:1926`, 50.*
 
 *$^a$Figures relate only to members of Union of Socialist Workers.*
 
-(tab-313)=
-**Polish Receipts and Expenditures in thousands of zloty**
+```{table} Polish Receipts and Expenditures in thousands of zloty
+:name: tab-313
 
 |  | 1921 | 1922 | 1923 | 1924 | 1925 |
 | --- | --- | --- | --- | --- | --- |
@@ -1459,21 +1485,22 @@ money.
 | Administration | 261,676 | 467,979 | — | — | 1,491,743 |
 | State enterprises | 11,413 | 14,556 | — | — | 133,530 |
 | Monopolies | 72,222 | 47,893 | — | — | 356,611 |
-| \quad Total | 345,311 | 530,428 | 426,000 | 1,703,000 | 1,981,884 |
+| Total | 345,311 | 530,428 | 426,000 | 1,703,000 | 1,981,884 |
 | *Expenditures:* |  |  |  |  |  |
 | Administration | 765,263 | 734,310 | — | — | 1,830,231 |
 | State enterprises | 115,589 | 145,003 | — | — | 106,343 |
 | Monopolies | — | — | — | — | 45,019 |
-| \quad Total | 880,852 | 879,313 | 1,119,800 | 1,629,000 | 1,981,593 |
-| \quad Deficit | 535,541 | 348,885 | 692,000 | — | — |
-| \quad Surplus | — | — | — | 74,000 | 251 |
+| Total | 880,852 | 879,313 | 1,119,800 | 1,629,000 | 1,981,593 |
+| Deficit | 535,541 | 348,885 | 692,000 | — | — |
+| Surplus | — | — | — | 74,000 | 251 |
+```
 
 *Source: {cite:t}`Young:1925`, 2:183.*
 
 **Note*: Conversion from marks to zloty was made on the following basis: 1921, 1 zloty = 303.75 marks. First quarter 1922, 1 zloty = 513.52 marks; second quarter, 691.49 marks; third quarter, 1,024.97 marks; and fourth quarter, 1,933.87 marks.*
 
-(tab-314)=
-**Balance Sheet of Bank of Poland, 1918–25 end of month figures (Polish State Loan Bank Prior to May 1924) in millions of marks**
+```{table} Balance Sheet of Bank of Poland, 1918–25 end of month figures (Polish State Loan Bank Prior to May 1924) in millions of marks
+:name: tab-314
 
 | Month | Gold$^a$ | Silver$^a$ (including base coin) | Balances with foreign banks |
 | --- | --- | --- | --- |
@@ -1507,6 +1534,9 @@ money.
 | October | 9.5 | 34.4 | 236.7 |
 | November | 10.1 | 35.4 | 203.8 |
 | December | 12.4 | 37.6 | 80.7 |
+```
+
+```{table}
 
 |  | Advances |  |  |
 | --- | --- | --- | --- |
@@ -1538,6 +1568,9 @@ money.
 | 259.1 | 2,527.0 | 46,925.0 | 38,456.8 |
 | 396.0 | 3,278.4 | 49,625.0 | 43,236.2 |
 | 611.6 | 3,999.2 | 59,625.0 | 49,361.5 |
+```
+
+```{table}
 
 | Month | Gold$^a$ | Silver$^a$ (including base coin) | Balances with foreign banks |
 | --- | --- | --- | --- |
@@ -1573,6 +1606,9 @@ money.
 | March | 41.7 | 44.2 | 29,868.7 |
 | April | 41.9 | 44.2 | 50,851.9 |
 | May | 41.9 | 44.3 | 43,900.7 |
+```
+
+```{table}
 
 |  | Advances |  |  |
 | --- | --- | --- | --- |
@@ -1606,6 +1642,9 @@ money.
 | 274,657.8 | 85,323.2 | 1,752,000.0 | 1,841,205.6 |
 | 304,725.4 | 156,815.4 | 2,161,500.0 | 2,332,396.8 |
 | 449,440.7 | 217,162.3 | 2,377,000.0 | 2,733,794.1 |
+```
+
+```{table}
 
 | Month | Gold$^a$ | Silver$^a$ (including base coin) | Balances with foreign banks |
 | --- | --- | --- | --- |
@@ -1637,12 +1676,15 @@ money.
 | February | 107,032,735 | 27,481,871 | 206,317,320 |
 | March | 116,619,825 | 28,158,597 | 259,392,902 |
 | April | 117,428,697 | 28,358,000 | 216,114,621 |
+```
 
 *Source: {cite:t}`Young:1925`, 2:348.*
 
 *$^a$Gold at par; silver coin at face value.*
 
 *$^b$Gold and silver.*
+
+```{table}
 
 |  | Advances |  |  |
 | --- | --- | --- | --- |
@@ -1672,9 +1714,10 @@ money.
 | 286,229,180 | 28,467,930 | 18,222,212 | 549,637,420 |
 | 306,562,690 | 25,477,638 | 403,354 | 563,171,945 |
 | 294,632,508 | 27,319,944 | 35,977,630 | 567,178,830 |
+```
 
-(tab-315)=
-**Polish Index Numbers of Wholesale Prices, 1921–25**
+```{table} Polish Index Numbers of Wholesale Prices, 1921–25
+:name: tab-315
 
 |  |  |  |  |  | Wholesale price index$^a$ |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1706,13 +1749,14 @@ money.
 | 1923 | January | 544,690 |  | April |  | 118 |
 |  | February | 859,110 |  | May |  | 118 |
 |  | March | 988,500 |  |  |  |  |
+```
 
 *Source: {cite:t}`Young:1925`, 2:349.*
 
 *$^a$1914 = 100.*
 
-(tab-316)=
-**Polish Exchange Rates, 1919–25**
+```{table} Polish Exchange Rates, 1919–25
+:name: tab-316
 
 | Year | Month | Cents per Polish mark | Year | Month | Cents per Polish mark |
 | --- | --- | --- | --- | --- | --- |
@@ -1755,11 +1799,12 @@ money.
 |  | June | 0.0237 |  | April | 19.18 |
 |  | July | 0.0185 |  | May | 19.18 |
 |  | August | 0.0135 |  | June | 19.18 |
+```
 
 *Source: {cite:t}`Young:1925`, 2:350.*
 
-(tab-317)=
-**Polish Unemployed**
+```{table} Polish Unemployed
+:name: tab-317
 
 | 1921: |  | 1923: |  |
 | --- | --- | --- | --- |
@@ -1788,11 +1833,12 @@ money.
 | October | 61,000 | October | 147,065 |
 | November | 62,000 | November | 150,180 |
 | December | 75,000 | December | 159,060 |
+```
 
 *Source: Statistiches Jahrbuch für das Deutsche Reich (1924/25).*
 
-(tab-318)=
-**German Wholesale Prices, 1914–24**
+```{table} German Wholesale Prices, 1914–24
+:name: tab-318
 
 | Year | Month | Price index | Year | Month | Price index |
 | --- | --- | --- | --- | --- | --- |
@@ -1835,6 +1881,9 @@ money.
 | 1917 | January | 156 |  | April | 1,570 |
 |  | February | 158 |  | May | 1,510 |
 |  | March | 159 |  | June | 1,380 |
+```
+
+```{table}
 
 | Year | Month | Price index | Year | Month | Price index |
 | --- | --- | --- | --- | --- | --- |
@@ -1865,13 +1914,14 @@ money.
 |  | July | 10,160 |  | October | 131$^a$ |
 |  | August | 19,200 |  | November | 129$^a$ |
 |  | September | 28,700 |  | December | 131$^a$ |
+```
 
 *Source: {cite:t}`Young:1925`, 1:503.*
 
 *$^a$On basis of prices in reichsmarks. [1 reichsmark = 1 trillion (10$^{12}$) former marks.]*
 
-(tab-319)=
-**German Exchange Rates, 1914–25**
+```{table} German Exchange Rates, 1914–25
+:name: tab-319
 
 | Year | Month | Cents per mark | Year | Month | Cents per mark |
 | --- | --- | --- | --- | --- | --- |
@@ -1906,13 +1956,14 @@ money.
 |  | May | 0.34 |  | December | 23.8 |
 |  | June | 0.32 | 1925$^a$ | January | 23.8 |
 |  | July | 0.20 |  |  |  |
+```
 
 *Source: {cite:t}`Young:1925`, 1:503.*
 
 *$^a$Cents per rentenmark and (after October 1924) per reichsmark. 1 rentenmark is equivalent to 1 reichsmark or 1 billion former paper marks. The reichsmark is the equivalent of the gold mark worth 23.82 cents.*
 
-(tab-320)=
-**Real German Revenues and Expenditures, Calculated on the Basis of the Cost-of-Living Index in millions of gold marks**
+```{table} Real German Revenues and Expenditures, Calculated on the Basis of the Cost-of-Living Index in millions of gold marks
+:name: tab-320
 
 |  | Revenue |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1921,7 +1972,10 @@ money.
 | 1921–22 | 5,235.7 | 100.5 | 6,627.4 | 11,963.6 |
 | 1922–23 | 3,529.1 | 51.4 | 6,384.5 | 9,965.0 |
 | 1923–24 (first | 1,496.1 | 180.6 | 11,836.5 | 13,513.2 |
-| \qquad 9 months) |  |  |  |  |
+| 9 months) |  |  |  |  |
+```
+
+*(continued)*
 
 | Expenditures |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1933,8 +1987,8 @@ money.
 
 *Source: {cite:t}`Young:1925`, 2:393.*
 
-(tab-321)=
-**Balance Sheet of German Reichsbank, 1921–24**
+```{table} Balance Sheet of German Reichsbank, 1921–24
+:name: tab-321
 
 |  | Gold |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1973,6 +2027,9 @@ money.
 | May | 181,032 | 576,883 | 757,915 | 15,026,230 |
 | June | 140,032 | 576,880 | 716,912 | 19,185,800 |
 | July | 90,032 | 506,319 | 596,351 | 23,815,964 |
+```
+
+```{table}
 
 | Total coin and bullion | Treasury and loan bank notes | Notes of other banks |
 | --- | --- | --- |
@@ -2007,6 +2064,9 @@ money.
 | 15,784,145 | 1,892,215,265 | 343,582 |
 | 19,902,712 | 2,866,836,761 | 472,566 |
 | 24,412,315 | 3,987,474,460 | 627,594 |
+```
+
+```{table}
 
 |  | Gold |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2032,6 +2092,9 @@ money.
 | 31 October | 240,033 | 454,191 | 694,224 | 55,437 |  |
 | November | 240,033 | 455,454 | 695,487 | 49,525 |  |
 | December | 207,114 | 552,495 | 759,609 | 46,379 |  |
+```
+
+```{table}
 
 | Total coin and bullion | Foreign exchange | Treasury and loan bank notes | Notes of other banks | Rentenbank notes |
 | --- | --- | --- | --- | --- |
@@ -2054,6 +2117,9 @@ money.
 | 749,661 | 231,407 |  | 3 |  |
 | 745,012 | 231,829 |  | 6,788 |  |
 | 805,988 | 253,202 |  | 7,625 |  |
+```
+
+```{table}
 
 |  | Discounted bills |  |  |
 | --- | --- | --- | --- |
@@ -2092,6 +2158,9 @@ money.
 | May | 8,021,904,840 | 4,014,693,720 | 12,036,598,560 |
 | June | 18,338$^b$ | 6,914,198,630 | 25,252,198,630 |
 | July | 53,752$^b$ | 18,314$^b$ | 72,066$^b$ |
+```
+
+```{table}
 
 | Advances | Securities | Notes in circulation |
 | --- | --- | --- |
@@ -2126,6 +2195,9 @@ money.
 | 61,030,322 | 697,611 | 8,563,749,470 |
 | 188,548,574 | 344,819 | 17,291$^b$ |
 | 2,553,177,597 | 1,422,291 | 43,595$^b$ |
+```
+
+```{table}
 
 |  | Discounted bills |  |  |
 | --- | --- | --- | --- |
@@ -2151,6 +2223,9 @@ money.
 | 31 October | — | — | 2,339,616 |
 | November | — | — | 2,290,166 |
 | December | — | — | 2,064,094 |
+```
+
+```{table}
 
 | Advances | Securities | Notes in circulation |
 | --- | --- | --- |
@@ -2173,6 +2248,9 @@ money.
 | 33,443 | 77,699 | 1,780,930 |
 | 18,628 | 77,808 | 1,863,200 |
 | 16,960 | 77,999 | 1,941,440 |
+```
+
+```{table}
 
 |  | Demand deposits |  |  |
 | --- | --- | --- | --- |
@@ -2211,6 +2289,9 @@ money.
 | May | 652,575,366 | 4,410,494,865 | 5,063,070,231 |
 | June | 1,648,114,327 | 8,304,602,339 | 9,952,716,666 |
 | July | 3,779,235,298 | 24,078$^b$ | 27,857$^b$ |
+```
+
+```{table}
 
 |  | Demand Deposits |  |  | Due to |
 | --- | --- | --- | --- | --- |
@@ -2236,6 +2317,7 @@ money.
 | 31 October | — | — | 708,728 | 800,000 |
 | November | — | — | 703,938 | 800,000 |
 | December | — | — | 820,865 | 456,508 |
+```
 
 *Source: {cite:t}`Young:1925`, 1:524–25, 528–29.*
 
@@ -2251,8 +2333,8 @@ money.
 
 *$^e$Date of first statement of reorganized Reichsbank.*
 
-(tab-322)=
-**Ordinary Revenues and Expenditures of the German Federal Government From *Wirtschift und Statistik*, issued by the Statistisches Reichsamt, in millions of gold marks**
+```{table} Ordinary Revenues and Expenditures of the German Federal Government From *Wirtschift und Statistik*, issued by the Statistisches Reichsamt, in millions of gold marks
+:name: tab-322
 
 |  | Ordinary revenue |  |  | Excess of revenue ($+$) |
 | --- | --- | --- | --- | --- |
@@ -2271,11 +2353,12 @@ money.
 | August | 618.2 | 592.0 | 597.6 | $+$20.6 |
 | September | 665.6 | 609.2 | 581.6 | $+$84.0 |
 | October | 714.3 | 686.7 | 693.0 | $+$21.3 |
+```
 
 *Source: {cite:t}`Young:1925`, 1:422.*
 
-(tab-323)=
-**Index of Physical Volume of Production per Capita in Germany**
+```{table} Index of Physical Volume of Production per Capita in Germany
+:name: tab-323
 
 | Year | Index of production | Year | Index of production |
 | --- | --- | --- | --- |
@@ -2283,27 +2366,31 @@ money.
 | 1921 | 77 | 1925 | 90 |
 | 1922 | 86 | 1926 | 86 |
 | 1923 | 54 | 1927 | 111 |
+```
 
 *Source: {cite:t}`Graham:1930`, 287.*
 
-(tab-324)=
-**Czechoslovakia, Receipts and Expenditures 1919–25 Exclusive of expenditures for capital improvements covered by loans**
+```{table} Czechoslovakia, Receipts and Expenditures 1919–25 Exclusive of expenditures for capital improvements covered by loans
+:name: tab-324
 
-|  | \quad 1919 |  | \quad 1920 |  | \quad 1921 |  |
+|  | 1919 |  | 1920 |  | 1921 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Estimated | Actual | Estimated | Actual | Estimated | Actual |
 | *Revenue* |  |  |  |  |  |  |
-| \quad Ordinary | 2,614 | — | 7,950 | — | 15,923 | — |
-| \quad Extraordinary | 1,096 | — | 2,477 | — | 1,376 | — |
-| \qquad Total | 3,710 | — | 10,427 | 13,455 | 17,299 | 21,894 |
+| Ordinary | 2,614 | — | 7,950 | — | 15,923 | — |
+| Extraordinary | 1,096 | — | 2,477 | — | 1,376 | — |
+| Total | 3,710 | — | 10,427 | 13,455 | 17,299 | 21,894 |
 | *Expenditure* |  |  |  |  |  |  |
-| \quad Ordinary | 2,610 | — | 7,175 | — | 10,672 | — |
-| \quad Extraordinary | 6,005 | — | 8,103 | — | 7,354 | — |
-| \qquad Total | 8,615 | 7,450 | 15,278 | 13,931 | 18,026 | 18,558 |
+| Ordinary | 2,610 | — | 7,175 | — | 10,672 | — |
+| Extraordinary | 6,005 | — | 8,103 | — | 7,354 | — |
+| Total | 8,615 | 7,450 | 15,278 | 13,931 | 18,026 | 18,558 |
 | Deficit | 4,905 | — | 4,851 | 476 | 727 | — |
 | Surplus | — | — | — | — | — | 3,336 |
+```
 
-| \quad 1922 |  | \quad 1923 |  | \quad 1924 |  | \quad 1925 |  |
+```{table}
+
+| 1922 |  | 1923 |  | 1924 |  | 1925 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Estimated | Actual | Estimated | Actual | Estimated | Actual | Estimated | Actual |
 | 17,291 | — | 17,961 | — | 15,987 | — | — | — |
@@ -2314,10 +2401,13 @@ money.
 | 19,813 | 18,663 | 19,378 | 16,540 | 16,993 | — | 15,974 | — |
 | 929 | 930 | 565 | 876 | 603 | — | 272 | — |
 | — | — | — | — | — | — | — | — |
+```
 
 *Source: {cite:t}`Young:1925`, 2:71.*
 
-(tab-325)=
+```{table}
+:name: tab-325
+
 | Year | Month | State notes in circulation | Year | Month | State notes in circulation |
 | --- | --- | --- | --- | --- | --- |
 | 1919 | April | — | 1922 | May | 9,717,750 |
@@ -2357,11 +2447,12 @@ money.
 |  | February | 10,743,958 |  | March | 7,680,867 |
 |  | March | 10,323,069 |  | April | 7,525,934 |
 |  | April | 10,075,757 |  |  |  |
+```
 
 *Source: {cite:t}`Young:1925`, 2:305–6.*
 
-(tab-326)=
-**Czechoslovakian Exchange Rates, 1919–24**
+```{table} Czechoslovakian Exchange Rates, 1919–24
+:name: tab-326
 
 | Year | Month | Cents per crown | Year | Month | Cents per crown |
 | --- | --- | --- | --- | --- | --- |
@@ -2404,11 +2495,12 @@ money.
 | 1922 | January | 1.732 |  | April | 2.960 |
 |  | February | 1.855 |  | May | 2.960 |
 |  | March | 1.733 |  | June | 2.960 |
+```
 
 *Source: {cite:t}`Young:1925`, 2:307.*
 
-(tab-327)=
-**Czechoslovakian Wholesale Prices, 1922–24**
+```{table} Czechoslovakian Wholesale Prices, 1922–24
+:name: tab-327
 
 | Year | Month | Wholesale price index | Year | Month | Wholesale price index |
 | --- | --- | --- | --- | --- | --- |
@@ -2433,6 +2525,7 @@ money.
 |  | July | 968 |  | April | 1,019 |
 |  | August | 958 |  | May | 1,006 |
 |  | September | 957 |  |  |  |
+```
 
 *Source: {cite:t}`Young:1925`, 2:307.*
 

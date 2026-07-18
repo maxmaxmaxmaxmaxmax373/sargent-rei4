@@ -433,8 +433,8 @@ level at $t=1$ is $1.04$ percent *higher* in the economy with the
 price levels, per capita bond holdings, and per capita real money
 balances for the two economies.
 
-(tab-51)=
-**Price Level and Real Balance Dynamics**
+```{table} Price Level and Real Balance Dynamics
+:name: tab-51
 
 |  | Price level |  | Inflation rate |  |
 | --- | --- | --- | --- | --- |
@@ -449,6 +449,7 @@ balances for the two economies.
 | 8 | 2.00067 | 1.87416 | 1.08397 | 1.06474 |
 | 9 | 2.16867 | 1.99549 | 1.08394 | 1.06051 |
 | $t\geq 10$ | $p(10)\pi(10)^{t-10}$ |  | 1.08390 | 1.05557 |
+```
 
 *(continued)*
 
@@ -1206,8 +1207,8 @@ for $H(1)$ and $\theta$. Then equations (5.34), (5.36), and (5.39) to (5.42)
 simultaneously determine $p (t), b(t), t =1 , \ldots, T$, while equation
 (5.30) determines $p(t)$ for $t > T$.
 
-(tab-53)=
-**Two Economies**
+```{table} Two Economies
+:name: tab-53
 
 |  | Price level |  | Inflation rate |  |
 | --- | --- | --- | --- | --- |
@@ -1221,6 +1222,7 @@ simultaneously determine $p (t), b(t), t =1 , \ldots, T$, while equation
 | 7 | 1.84573 | 1.75578 | 1.08401 | 1.06816 |
 | 8 | 2.00079 | 1.87546 | 1.08398 | 1.06447 |
 | 9 | 2.16881 | 1.99637 | 1.08394 | 1.06020 |
+```
 
 *(continued)*
 
@@ -1303,8 +1305,8 @@ example in the text, this comparison provides a spectacular example in
 which tighter money now fails to buy even a temporarily lower inflation
 than does looser money now.
 
-(tab-54)=
-**Different $\theta$s**
+```{table} Different $\theta$s
+:name: tab-54
 
 |  | Price level |  | Inflation rate |  |
 | --- | --- | --- | --- | --- |
@@ -1318,6 +1320,7 @@ than does looser money now.
 | 7 | 0.65455 | 0.71040 | 1.06005 | 1.05391 |
 | 8 | 0.69386 | 0.74870 | 1.07806 | 1.06561 |
 | 9 | 0.74802 | 0.79782 | 1.09887 | 1.07962 |
+```
 
 *(continued)*
 

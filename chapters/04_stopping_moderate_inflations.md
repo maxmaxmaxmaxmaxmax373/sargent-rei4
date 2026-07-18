@@ -1160,8 +1160,8 @@ to legislate taxes and expenditures. Decentralized situations
 like this are the fields on which games of chicken might better be
 played.
 
-(tab-41)=
-**French Wholesale Price Index Base 1913 $=$ 100, 1913 from 1901–10 index $=$115.6**
+```{table} French Wholesale Price Index Base 1913 $=$ 100, 1913 from 1901–10 index $=$115.6
+:name: tab-41
 
 | Year | Jan. | Feb. | March | April | May | June |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1176,11 +1176,12 @@ played.
 |  | 556.8 | 557.2 | 555.7 | 572.3 | 605.5 | 632.4 |
 |  | 836.2 | 769.5 | 786.9 | 751.5 | 683.8 | 626.5 |
 |  | 619.9 | 617.9 | 600.3 | 587.5 |  |  |
+```
 
 *Source: League of Nations Bulletin, Haig (1929, p. 448).*
 
-(tab-42)=
-**Dollar Exchange in Paris**
+```{table} Dollar Exchange in Paris
+:name: tab-42
 
 |  | 1923 | 1924 | 1925 | 1926 | 1927 |
 | --- | --- | --- | --- | --- | --- |
@@ -1196,10 +1197,13 @@ played.
 | October | 17.19 | 19.13 | 23.92 | 32.52 | 25.47 |
 | November | 18.51 | 18.82 | 26.09 | 28.11 | 25.43 |
 | December | 19.59 | 18.56 | 26.90 | 25.25 | 25.40 |
+```
 
 **Note*: Averages of daily rates for final weeks of each month, francs per dollar.*
 
-(tab-43)=
+```{table}
+:name: tab-43
+
 |  | (1) GDP at current prices based on expenditure data | (2) GDP at 1975 prices based on expenditure data | Implicit price deflator 1975 = 100 (column 1 divided by column 2)$\times$ 100 | GDP at market prices | Consumers' expenditure |
 | --- | --- | --- | --- | --- | --- |
 | 1970 | 43,532 | 85,402 | 50.97 | 51,065 | 31,778 |
@@ -1212,6 +1216,9 @@ played.
 | 1977 | 126,111 | 98,993 | 127.39 | 143,064 | 85,474 |
 | 1978 | 144,442 | 101,929 | 141.71 | 164,034 | 98,395 |
 | 1979 | 163,647 | 102,563 | 159.56 | 189,702 | 114,805 |
+```
+
+```{table}
 
 | General government final consumption | Gross domestic fixed capital formation | Value of physical increase in stocks and work in progress | Exports of goods and services | Imports of goods and services | Taxes on expenditure | Subsidies |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1225,9 +1232,10 @@ played.
 | 26,209 | 25,739 | 1,860 | 43,352 | 42,570 | 20,252 | 3,299 |
 | 32,934 | 26,695 | 1,070 | 47,442 | 45,502 | 23,253 | 3,661 |
 | 38,316 | 33,646 | 2,760 | 54,676 | 54,501 | 30,361 | 4,306 |
+```
 
-(tab-44)=
-**Exchange, Price, and Balance**
+```{table} Exchange, Price, and Balance
+:name: tab-44
 
 |  |  |  |  | Retail price (1975 = 100) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1265,9 +1273,10 @@ played.
 |  | 4 | $+$1,885 | 2.387 | 203.2 | 15.3 |
 | 1981 | Jan. | $+$1,042 | 2.405 | 205.7 | 13.0 |
 |  | Feb. | $+$614 | 2.294 | 207.6 | 12.5 |
+```
 
-(tab-45)=
-**Output and Unemployment**
+```{table} Output and Unemployment
+:name: tab-45
 
 |  |  | GDP (at 1975 factor cost, £ million | Industrial production (1975 = 100, seasonally adjusted) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1302,9 +1311,10 @@ played.
 |  | 2 | 25,445 | 106.6 | 96.8 | 6.2 |
 |  | 3 | 24,991 | 102.9 | 93.3 | 7.0 |
 |  | 4 |  | 100.2 | 89.1 | 8.4 |
+```
 
-(tab-46)=
-**Gross Domestic Fixed Capital Formation by Sector**
+```{table} Gross Domestic Fixed Capital Formation by Sector
+:name: tab-46
 
 |  |  | Total | Private sector | General government | Public corporations |
 | --- | --- | --- | --- | --- | --- |
@@ -1343,9 +1353,10 @@ played.
 |  | 2 | 5,058 | 3,429 | 741 | 888 |
 |  | 3 | 4,923 | 3,357 | 719 | 847 |
 |  | 4 |  |  |  |  |
+```
 
-(tab-47)=
-**Money Supply in the United Kingdom in £ million: amounts outstanding**
+```{table} Money Supply in the United Kingdom in £ million: amounts outstanding
+:name: tab-47
 
 |  |  | Seasonally adjusted |  |  |
 | --- | --- | --- | --- | --- |
@@ -1378,6 +1389,9 @@ played.
 |  | 2 | 18,530 | 33,790 | 42,210 |
 |  | 3 | 19,100 | 40,300 | 44,310 |
 |  | 4 | 18,980 | 40,380 | 44,470 |
+```
+
+```{table}
 
 |  |  | Seasonally adjusted |  |  |
 | --- | --- | --- | --- | --- |
@@ -1398,9 +1412,10 @@ played.
 |  | 2 | 30,110 | 62,570 | 68,140 |
 |  | 3 | 29,780 | 65,340 | 71,200 |
 |  | 4 | 30,520 | 68,350 | 74,870 |
+```
 
-(tab-48)=
-**General Government Receipts and Expenditure in £ million**
+```{table} General Government Receipts and Expenditure in £ million
+:name: tab-48
 
 |  |  | Receipts |  | Expenditure |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1426,8 +1441,11 @@ played.
 |  | 2 | 18,713 | 2,136 | 11,656 | 1,144 |
 |  | 3 | 21,811 | 2,157 | 12,386 | 1,415 |
 |  | 4 |  |  |  |  |
+```
 
 **Note*: An article describing the new presentation of government income and expenditure was published in the March 1977 issue of *Economic Trends*.*
+
+```{table}
 
 | Expenditure |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1453,11 +1471,12 @@ played.
 | 7,747 | 576 | 3,149 | 152 | 24,196 |
 | 8,145 | 521 | 2,209 | 1,444 | 25,119 |
 | 8,075 | 618 | 3,299 | 1,185 | 26,978 |
+```
 
 *$^a$ Net lending to public corporations, private sector and overseas; cash expenditure on company securities, etc. (net).*
 
-(tab-49)=
-**Financial Transactions of the Public Sector in £ million**
+```{table} Financial Transactions of the Public Sector in £ million
+:name: tab-49
 
 |  |  |  | Financial deficit |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1477,6 +1496,9 @@ played.
 |  | 4 | 1,556 | 1,406 | 150 | $-$63 | 1,493 |
 | 1980 | 1 | 1,700 | 1,226 | 474 | $-$128 | 1,572 |
 |  | 2 | 3,543 | 2,646 | 897 | 490 | 4,033 |
+```
+
+```{table}
 
 | Receipts |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1497,6 +1519,9 @@ played.
 | $-$2,436 | 3,929 | 3,510 | 330 | 89 | 3,548 |
 | 2,771 | $-$1,199 | $-$1,950 | 1,397 | $-$646 | 131 |
 | $-$802 | 4,835 | 4,587 | 574 | $-$326 | 4,122 |
+```
+
+```{table}
 
 |  |  |  | Classification by maturity |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1521,8 +1546,11 @@ played.
 | June | $+$3377 | $-$544 | $-$574 | $+$1358 | $+$943 | $+$2194 |
 | Sept. | $+$3186 | $-$19 | $-$136 | $-$261 | $+$3130 | $+$472 |
 | Dec. | $+$3055 | $-$263 | $-$734 | $+$1186 | $+$1425 | $+$1441 |
+```
 
-(tab-411)=
+```{table}
+:name: tab-411
+
 |  | Short-dated (5 years) | Medium-dated (10 years) | Long-dated (20 years) |
 | --- | --- | --- | --- |
 | Last working days |  |  |  |
@@ -1558,9 +1586,10 @@ played.
 | Mar. 2 | 13.03 | 13.87 | 13.97 |
 | Mar. 9 | 13.15 | 13.95 | 14.03 |
 | Mar. 16 | 12.85 | 13.59 | 13.63 |
+```
 
-(tab-412)=
-**Interest Rates, Security Prices, and Yields percentage rate**
+```{table} Interest Rates, Security Prices, and Yields percentage rate
+:name: tab-412
 
 |  | Last Friday |  | Last working day |  | Average of working days |
 | --- | --- | --- | --- | --- | --- |
@@ -1577,6 +1606,7 @@ played.
 | 1978 | 12.50 | 11.91 | 11.69 | 8.00 | 12.47 |
 | 1979 | 17 | 16.49 | 14.50 | 10.50 | 12.99 |
 | 1980 | 14 | 13.45 | 17.75 | 10.50 |  |
+```
 
 [^1]: Robert {cite:t}`Barro:1977` has pointed out that after a change in policy regime, it can happen that it is in the interests of neither party to enforce some long-term contracts of the Taylor-Fischer variety that had been agreed upon before the regime change. Presumably such contracts would never be enforced.
 
