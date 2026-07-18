@@ -21,3 +21,6 @@ parts:
       - file: chapters/08_six_essays_in_persuasion
       - file: chapters/09_french_revolution
       - file: chapters/10_united_states_then_europe_now
+  - caption: "Back Matter"
+    chapters:
+      - file: chapters/99_references
