@@ -1,10 +1,10 @@
 # 2. Reaganomics and Credibility
 
-> { Howard}: Dandy, the Vikings had the momentum throughout the first
+> Howard: Dandy, the Vikings had the momentum throughout the first
 half. Let's see if the momentum stays with the Vikes into the second
 half. Otherwise, it's going to be a long night for the Bears.
 
-{ Dandy Don}: Yes, Howard. It'll also be interesting to see if the
+Dandy Don: Yes, Howard. It'll also be interesting to see if the
 Bears continue to be confused by the new formation that Bud Grant has
 installed for this game. We haven't seen the Vikings throw play-action
 passes as much as they have this evening, and this has surprised the

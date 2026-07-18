@@ -392,7 +392,7 @@ different $A$'s occurred.[^9]
 
 ## New Econometric Methods
 
-{*Private Agents' Strategies Reflect Government's\\
+{*Private Agents' Strategies Reflect Government's
 Choice of Rules of the Game*}
 
  A major research effort is currently under way by economists to
