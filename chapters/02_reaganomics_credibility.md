@@ -458,7 +458,7 @@ opposite pole from the Ricardian regime, let us consider a rule that was
 followed for a while during the great revolutions in France and Russia,
 was used during each of the great European hyperinflations of the
 twentieth century, and was advocated in one version by Milton Friedman
-\aionly{Friedman:1948}
+
 in 1948. This rule can be characterized by either of the two following
 equations:
 
