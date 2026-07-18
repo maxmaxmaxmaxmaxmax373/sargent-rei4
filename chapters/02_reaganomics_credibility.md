@@ -279,7 +279,7 @@ the price level in Hungary increased by a factor of about $4 \times
 extraordinarily rapid ongoing inflation, so that $E_t[p(t+1)/p(t)]$ was
 large by the middle of 1946. In August 1946 the real value of
 high-powered money $M(t)/p(t)$ in Hungary, measured in 1946 US
-dollars, was less than $25,000.
+dollars, was less than \$25,000.
 The system that emerges from writing down the version of equation
 (2.2) that is appropriate for dates $t, t+1, t+2, \ldots$ can be solved
 to express $p(t)$ solely in terms of expected future values of $M(t)$:

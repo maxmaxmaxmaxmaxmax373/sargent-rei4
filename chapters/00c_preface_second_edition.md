@@ -37,6 +37,6 @@ game theory. See {cite:t}`Stokey:1989` and {cite:t}`Chari_Kehoe_1990`.
 
 This book uses historical evidence at many points. I am neither an historian nor an economic historian, and have relied entirely on secondary sources. In writing these articles, I am not pretending to be an historian, only a macroeconomist interested in giving my theories a shot at some interesting data sets that others have taken the time to assemble.
 
-\rightline{ *Thomas J. Sargent*}
-\rightline{ *Chicago, Illinois*}
-\rightline{ *February 1992*}
+*Thomas J. Sargent*
+*Chicago, Illinois*
+*February 1992*

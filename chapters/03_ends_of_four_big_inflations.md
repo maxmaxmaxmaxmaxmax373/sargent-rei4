@@ -25,7 +25,7 @@ employment but have little, if any, effects in reducing the rate of
 inflation. For the economy of the United States, a widely cited
 estimate is that for every one percentage point reduction in the annual
 inflation rate accomplished by restrictive monetary and fiscal measures,
-$220 billion of annual GNP would be lost. For the $2500 billion US
+\$220 billion of annual GNP would be lost. For the \$2500 billion US
 economy, the cost of achieving zero percent inflation would be great,
 indeed, according to this estimate.
 
@@ -48,7 +48,7 @@ that imparts the momentum to the inflation rate. An implication of this
 view is that inflation can be stopped much more quickly than advocates
 of the “momentum” view have indicated and that their estimates of the
 length of time and the costs of stopping inflation in terms of foregone
-output ($220 billion of GNP for one percentage point in the inflation
+output (\$220 billion of GNP for one percentage point in the inflation
 rate) are erroneous. This is not to say that it would be easy to
 eradicate inflation. On the contrary, it would require far more than a
 few temporary restrictive fiscal and monetary actions. It would require
@@ -213,7 +213,7 @@ captured in standard econometric models cannot be expected to remain
 constant across contemplated changes in government policy regimes. For
 this reason predictions made under the assumption that such relations
 will remain constant across regime changes ought not to be believed.
-The estimate that a 1 percent reduction in inflation would cost $220
+The estimate that a 1 percent reduction in inflation would cost \$220
 billion GNP annually is one example of such a faulty prediction. When
 an important change in regime occurs, dynamic macroeconomics would
 predict that the entire pattern of correlations among variables will
@@ -277,8 +277,8 @@ which averaged 10,000 percent per annum from January 1921 to August 1922
 (Table 3.3).[^12]
 
 In response to these government actions and what seemed like
-pros\-pects for their indefinite continuation, the Austrian crown
-depreciated internationally and domestic prices rose rapid\-ly (see Tables
+prospects for their indefinite continuation, the Austrian crown
+depreciated internationally and domestic prices rose rapidly (see Tables
 3.3 and 3.4). While between January 1921 and August 1922 the note
 circulation of the central bank increased by a factor of 39, the retail
 price index increased by a factor of 110 (see Tables 3.3 and 3.4) so
@@ -429,7 +429,7 @@ stabilization and how much was due to the real dislocations affecting
 the Austrian economy cannot be determined. However, it is true that
 currency stabilization was achieved in Austria very suddenly, and with a
 cost in increased unemployment and foregone output that was minor
-compared with the $220 billion GNP that some current analysts estimate
+compared with the \$220 billion GNP that some current analysts estimate
 would be lost in the United States per one percentage point inflation
 reduction.
 
@@ -659,7 +659,7 @@ stabilization, and certainly not anywhere nearly as bad as would be
 predicted by application of the same method of analysis that was used to
 fabricate the prediction for the contemporary United States that each
 percentage point reduction in inflation would require a reduction of
-$220 billion in real GNP.
+\$220 billion in real GNP.
 
 The Polish zloty depreciated internationally from late 1925 onward
 but stabilized in autumn of 1926 at around 72 percent of its level of
@@ -1027,7 +1027,7 @@ money.
 ```{table} Austrian Budgets, 1919–22 in millions of paper crowns
 :name: tab-31
 
-|  | Receipts | Expen\-ditures | Deficit | Percentage of expenditures covered by new issues of paper money |
+|  | Receipts | Expenditures | Deficit | Percentage of expenditures covered by new issues of paper money |
 | --- | --- | --- | --- | --- |
 | 1 January–30 June 1919 | 1,339 | 4,043 | 2,704 | 67 |
 | 1 July 1919–30 June 1920 | 6,295 | 16,873 | 10,578 | 63 |
@@ -1449,7 +1449,7 @@ money.
 
 |  | Preliminary treasury accounts |  |  | Reconstruction scheme |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Period | Receipts | Expen\-ditures | Surplus (+) or deficit | Receipts | Expen\-ditures | Surplus (+) or deficit |
+| Period | Receipts | Expenditures | Surplus (+) or deficit | Receipts | Expenditures | Surplus (+) or deficit |
 | Jul.–Dec. 1924 | 208.0 | 205.9 | +2.1 | 143.8 | 186.3 | $-$42.5 |
 | Fiscal year 1924–25 | 453.1 | 422.8 | +30.3 | 293.8 | 393.9 | $-$100.1 |
 ```

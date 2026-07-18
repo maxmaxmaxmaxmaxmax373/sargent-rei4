@@ -24,6 +24,6 @@ Chapter 7 about Hong Kong in 1983 gives an example in which a government, purpos
 That is one way a central bank can magically convert “bad loans into good ones.” Pressures exist for central banks to do that
 today both in Europe and the United States.
 
-\rightline{ *Thomas J. Sargent*}
-\rightline{ *New York, New York*}
-\rightline{ *September 2012*}
+*Thomas J. Sargent*
+*New York, New York*
+*September 2012*

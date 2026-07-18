@@ -302,7 +302,7 @@ also imposed.
 
 There was also established an independent special fund to pay off
 outstanding government debt, administered by the
-Caisse d'Am\-or\-tis\-se\-ment, a newly created agency
+Caisse d'Amortissement, a newly created agency
 independent of the treasury and
 with its own earmarked revenues from the tobacco monopoly, the total
 receipts from the inheritance and estate taxes, and the new 7 percent
@@ -403,7 +403,7 @@ accelerated for the first year of Thatcher's administration, though in
 the last nine months it has receded markedly so that the inflation rate
 in the United Kingdom during this more recent period was actually less
 than it was in the United States. The pound sterling rose vis-à-vis
-the US dollar, from 2.11 $/£ in June 1979 to 2.40 $/£\
+the US dollar, from 2.11 \$/£ in June 1979 to 2.40 \$/£\
  in January 1981, while the balance of payments in current account
 swung toward surplus. Interest rates rose to very high levels.
 
@@ -817,8 +817,8 @@ settlement.
 
  In the late 1970s the magnitude of Britain's prospective revenues
 from North Sea oil became clearer and coincided with a simultaneous
-appreciation of the pound sterling from 1.65 US $/£ in
-1975IV to 2.39$/£ in 1980IV, and a swing of the current
+appreciation of the pound sterling from 1.65 US \$/£ in
+1975IV to 2.39\$/£ in 1980IV, and a swing of the current
 account balance of payments from a deficit toward surplus. The fact
 that Great Britain moved from being a net importer to being a net
 exporter of petroleum helped swing the current account into surplus.
@@ -850,7 +850,7 @@ a looser monetary policy than has England.
 Another popular explanation for the strong pound is that OPEC
 countries have begun to diversify their overseas investments by holding
 assets denominated in a variety of foreign currencies and that this has
-resulted in an increased preference for pound-de\-nom\-i\-nat\-ed assets. This
+resulted in an increased preference for pound-denominated assets. This
 factor is probably part of the explanation but is not the dominant force
 leading to a strong pound.
 
@@ -1244,7 +1244,7 @@ played.
 
 |  |  |  |  | Retail price (1975 = 100) |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Current balance (million £) | Exchange rate ($/£) | Index | Percentage increase on one year earlier |
+|  |  | Current balance (million £) | Exchange rate (\$/£) | Index | Percentage increase on one year earlier |
 | 1970 |  | $+$799 | 2.396 | 54.2 | 6.4 |
 | 1971 |  | $+$1,076 | 2.444 | 59.3 | 9.4 |
 | 1972 |  | $+$189 | 2.502 | 63.6 | 7.1 |
@@ -1508,7 +1508,7 @@ played.
 | Receipts |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Public sector borrowing requirement |  |  |  |  |  |
-| Financial transactions (net receipts) | Total | Contri\-butions by central government | Contri\-butions by local authorities | Contri\-butions by public corporations | Seasonally adjusted total |
+| Financial transactions (net receipts) | Total | Contributions by central government | Contributions by local authorities | Contributions by public corporations | Seasonally adjusted total |
 | $-$483 | 1,403 | 637 | 676 | 90 | 1,403 |
 | 55 | 2,050 | 1,600 | 514 | $-$64 | 2,050 |
 | $-$547 | 4,191 | 2,331 | 1,348 | 512 | 4,191 |

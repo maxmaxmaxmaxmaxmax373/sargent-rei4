@@ -315,7 +315,7 @@ issued by the *Fermes Générales* were called anticipation
 notes. These notes formed the floating debt system, and also allowed private parties
 to transfer funds to and from Paris in the absence of a developed banking system.
 
- More “recently” absorbed territories such as Brittany, Burgundy, Pro\-ven\-ce,
+ More “recently” absorbed territories such as Brittany, Burgundy, Provence,
 Artois (15th century), Béarn, Foix, Bigorre (16th century), Franche-Comté, and
 Flanders (17th century) negotiated their global tax dues with the king through
 the provincial Estates which met regularly and were charged with collecting tax

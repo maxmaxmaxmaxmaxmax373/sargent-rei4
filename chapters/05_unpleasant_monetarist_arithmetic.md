@@ -219,7 +219,7 @@ $$
 \end{split}
 $$ (eq-5-3)
 
- We shall now use equation (5.3) and our monetarist model—assump\-tions
+ We shall now use equation (5.3) and our monetarist model—assumptions
 (1)–(3)—to illustrate a version of the following proposition: If
 fiscal policy in the form of the $D(t)$ sequence is taken as given, then
 tighter current monetary policy implies higher inflation in the future.

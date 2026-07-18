@@ -70,7 +70,7 @@ occurred in the United States since 1981.
 
  The next two chapters, “The Ends of Four Big Inflations” and
 “Stopping Moderate Inflations: The Methods of Poincaré and
-Thatch\-er,” provide interpretations of economic policies and outcomes
+Thatcher,” provide interpretations of economic policies and outcomes
 during several periods when rapid inflation was either occurring or
 thought to be threatening to occur. The chapter “Some Unpleasant
 Monetarist Arithmetic,” written with Neil Wallace, explores some
@@ -94,6 +94,6 @@ the international debt crisis. A depreciation of the US dollar via
 inflation would go a long way toward “making good loans out of bad
 ones” in the countries now on the verge of technical default.
 
-\rightline{ *Thomas J. Sargent*}
-\rightline{ *Minneapolis, Minnesota*}
-\rightline{ *March 1985*}
+*Thomas J. Sargent*
+*Minneapolis, Minnesota*
+*March 1985*

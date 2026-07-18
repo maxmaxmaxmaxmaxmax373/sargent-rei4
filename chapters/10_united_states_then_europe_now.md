@@ -166,10 +166,10 @@ $$ (eqn-Rdefault)
 
 ### Need for More Economic Theory?
 
- This piece of economics-plus-statistical forecasting theory forms the ess\-ence of the pricing model used by
+ This piece of economics-plus-statistical forecasting theory forms the essence of the pricing model used by
  prospective buyers and sellers of government debt.[^15]
  For the purposes of those buyers and sellers, it is enough to have a good
- fitting *statistical\/* model of the stochastic process {eq}`sargVAR2` governing the government surplus.
+ fitting *statistical* model of the stochastic process {eq}`sargVAR2` governing the government surplus.
 
  But for other purposes, a statistical model alone is inadequate.
  The model formed by equations {eq}`sargVAR1`, {eq}`sargVAR2`, {eq}`sarg2`, {eq}`sarg3`, and {eq}`PVcoeff` is superficial because the government surplus process $\{s_t\}$ is itself the *outcome* of a political
@@ -196,7 +196,7 @@ that have led policy makers to do what they do. The model builder's way of under
 
 ### Modeling Reforms
 
-By an *environment\/*, economic theorists mean a list of agents, a specification of actions available to every agent,
+By an *environment*, economic theorists mean a list of agents, a specification of actions available to every agent,
 a timing protocol telling who acts when, and an information flow telling what is known, and when and by whom it is known. Some changes in an environment can amount to changes in institutions, e.g., reassigning particular decisions to an independent central bank or assigning particular taxes exclusively to states or exclusively to a central government within a federal system. This concept of equilibrium ties our hands by asserting that if you want to change outcomes, like the government surplus process mentioned above, then you have to reform institutions, which can mean agreeing on a new constitution. This is subversive. Nevertheless, that is what economic theory
 teaches. George Washington and Alexander Hamilton knew it and
  that is why they
@@ -273,7 +273,7 @@ of Treasury Alexander Hamilton to prepare a plan for “an adequate provision fo
  These new debts promised to pay specific sequences of payoffs denominated in a unit of currency called a “dollar,” which in August 1790 was a silver coin issued by Spain.
 
 {cite:t}`Hamilton_Credit`
-told Congress that honoring the Continental Con\-gress's original promises to pay would drive down *prospective* returns on government debt by raising
+told Congress that honoring the Continental Congress's original promises to pay would drive down *prospective* returns on government debt by raising
  *ex post* returns relative to what had been expected during the 1780s when Continental debt had traded at deep discounts.[^38] He
  also argued that prospective returns could be lowered if private traders would come to regard government debt as a fully trusted obligation to the bearer, increasing its liquidity.
  Confirming Hamilton's expectations, discounts on Continental and state bonds evaporated when news about the pro-administration outcome of the debate spread.[^39]

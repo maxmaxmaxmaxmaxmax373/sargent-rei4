@@ -180,7 +180,7 @@ events.
 
 Market participants care about long-term, repeatedly executed
 strategies of the monetary and fiscal authorities because it is
-pros\-pects for future monetary and fiscal policy actions that influence
+prospects for future monetary and fiscal policy actions that influence
 the rates of return on government debt and currency that are issued
 today. Policy strategies in this sense are not set by a single group at
 a single moment but are determined by a succession of personalities
@@ -395,7 +395,7 @@ were cost1y for your country.
 ### The Economics Are Simple
 
 Persistent high inflation is always
-and everywhere a fiscal phenome\-non,
+and everywhere a fiscal phenomenon,
 in which the central
 bank is a monetary accomplice. A
 government administering a fiat
@@ -633,7 +633,7 @@ rate of inflation.
 
 Nevertheless, the Real Plan originated with a
 change in the units of measurement. The Real
-(R$) was born in July 1994 as the physical
+(R\$) was born in July 1994 as the physical
 manifestation of an earlier abstract unit of
 account, called the URV (real unit of value),
 and in terms of which Brazilians expressed

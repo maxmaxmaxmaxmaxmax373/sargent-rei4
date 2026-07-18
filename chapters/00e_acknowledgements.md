@@ -39,5 +39,5 @@ by the Nobel Foundation and the *Journal of Political Economy* in 2012.
 
 I would like to thank my friends David Beers, François Velde, and Neil Wallace
 for giving me permission to reprint papers that we co-authored.
-I thank François Velde for having crafted \LaTeX programs that typeset this book and for his generosity
+I thank François Velde for having crafted LaTeX programs that typeset this book and for his generosity
 and patience in helping me solve many typesetting problems.

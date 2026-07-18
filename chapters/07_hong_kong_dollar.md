@@ -90,7 +90,7 @@ device for crediting the revenues accumulated from currency issue (the
 
 The Exchange Fund issues all of Hong Kong's coins, but two large
 private banks issue most of the paper currency, known as the *Hong
-Kong dollar* (HK$). These banks are the Hong Kong and Shanghai Bank,
+Kong dollar* (HK\$). These banks are the Hong Kong and Shanghai Bank,
 which issues from 80 to 90 percent of the paper currency, and the
 Chartered Bank, which issues most of the rest.
 
@@ -115,7 +115,7 @@ banks are illustrated in Table {numref}`tab-72`.
 
 Although only two banks issue notes, there is relatively free entry
 into other aspects of banking in Hong Kong. Furthermore, there are no
-reserve requirements against deposits and no govern\-ment-supplied deposit
+reserve requirements against deposits and no government-supplied deposit
 insurance. There is a cartel, the Hong Kong Association of Banks, which
 sets interest rates.
 
@@ -136,7 +136,7 @@ currencies at market rates of exchange. In effect, then, the Exchange
 Fund was willing to buy and sell Hong Kong dollars for foreign
 currencies at market rates of exchange.
 
-```{table} Balance Sheet Effects of Issuing HK$ 100
+```{table} Balance Sheet Effects of Issuing HK\$ 100
 :name: tab-72
 
 |  | Assets |  | Liabilities |  |
@@ -311,11 +311,11 @@ in Hong Kong dollars, namely, 10 percent of $x$.
 |  | Initially | After 50% decline in HD asset values | After asset value decline and $33\frac{1}{3}$% depreciation |  |
 | --- | --- | --- | --- | --- |
 | *Assets* |  |  |  |  |
-| Loans backed by HK assets denominated in HK$ | $x$ | $\frac{1}{2}\, \frac{4}{3} x$ | $\frac{1}{2} \,\frac{4}{3} x$ |  |
+| Loans backed by HK assets denominated in HK\$ | $x$ | $\frac{1}{2}\, \frac{4}{3} x$ | $\frac{1}{2} \,\frac{4}{3} x$ |  |
 | Foreign assets denominated in foreign currency | $y$ | $y$ | $y$ |  |
 | Total | $x+y$ | $\frac{2}{3} x+y$ | $\frac{2}{3} x+y$ |  |
 | *Liabilities* |  |  |  |  |
-| Deposits denominated in HK$ | $\frac{9}{10}x$ | $\frac{9}{10} x$ | $\frac{2}{3}\, \frac{9}{10} x$ |  |
+| Deposits denominated in HK\$ | $\frac{9}{10}x$ | $\frac{9}{10} x$ | $\frac{2}{3}\, \frac{9}{10} x$ |  |
 | Other liabilities denominated in foreign currency | $\frac{9}{10} y$ | $\frac{9}{10} y$ | $\frac{9}{10} y$ |  |
 | Total | $\frac{9}{10}\,(x+y)$ | $\frac{9}{10}\, (x+y)$ | $\frac{9}{10}\, [\frac{2}{3}\, x+y]$ |  |
 | *Net Worth* |  |  |  |  |
@@ -491,7 +491,7 @@ other assets in Hong Kong, the sale and taxing of which the government
 depends on for revenues.
 
  During the 1970s, the Hong Kong government had budget surpluses
-totaling 8.6 billion Hong Kong dollars (usually expressed HK$ 8.6
+totaling 8.6 billion Hong Kong dollars (usually expressed HK\$ 8.6
 billion). Government investment was financed largely by current
 revenues and the proceeds of public land sales. As a result, even now
 Hong Kong's public sector has large net claims on the domestic banking
@@ -499,15 +499,15 @@ system and on the rest of the world. However, recent declines in
 government revenues have outpaced attempts to curb public expenditures,
 with the result that, in 1982–83 and 1983–84, the Hong Kong
 government had budget deficits for the first time in nearly a decade.
-These deficits are estimated at HK$ 3.9 billion and HK$ 3.2 billion,
+These deficits are estimated at HK\$ 3.9 billion and HK\$ 3.2 billion,
 respectively.
 
  By themselves, two consecutive annual deficits of such magnitude do
 not threaten responsible management of the Exchange Fund, because the
 government has accumulated substantial fiscal reserves. At the start of
-the 1983–84 financial year, fiscal reserves amounted to HK$ 18.7
-billion, of which HK$ 11.5 billion constituted *free reserves*,
-that is, reserves left after HK$ 7.2 billion were allocated to cover
+the 1983–84 financial year, fiscal reserves amounted to HK\$ 18.7
+billion, of which HK\$ 11.5 billion constituted *free reserves*,
+that is, reserves left after HK\$ 7.2 billion were allocated to cover
 possible losses on capital projects. Deficits of the current magnitude
 would not wipe out these free reserves for about three years.
 
