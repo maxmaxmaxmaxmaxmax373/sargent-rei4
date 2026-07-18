@@ -1,0 +1,5 @@
+period_ending,year,month_ending,month_beginning,revenues_taxes,revenues_sundries,revenues_deficit_covered_by_loan_transactions,total_revenues,expenditures_repayment_of_floating_debt,expenditures_interest_on_floating_debt,expenditures_subsidies_to_railroads,expenditures_execution_of_versailles_treaty,expenditures_sundries,total_expenditures,period_beginning,period_ending
+1920-01-31,1920.0,1.0,12.0,4090.8,132.9,7041.9,11265.6,821.7,,,,,11265.6,1920-12-01,1920-01-31
+1921-01-31,1921.0,1.0,12.0,5235.7,100.5,6627.4,11963.6,1039.5,811.6,1114.4,5110.6,5738.4,11963.4,1921-12-01,1921-01-31
+1922-01-31,1922.0,1.0,12.0,3529.1,51.4,6384.5,9965.0,81.0,344.4,1685.5,3600.0,4254.1,9965.0,1922-12-01,1922-01-31
+1923-01-31,1923.0,1.0,9.0,1496.1,180.6,11836.5,13513.2,,931.0,3725.0,,,13513.2,1923-09-01,1923-01-31

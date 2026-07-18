@@ -12,6 +12,7 @@ logo: ""
 exclude_patterns:
   - GUIDE.md
   - README.md
+  - data/**
 
 execute:
   execute_notebooks: "off"
