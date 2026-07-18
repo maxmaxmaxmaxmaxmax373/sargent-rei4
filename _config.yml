@@ -1,0 +1,50 @@
+#######################################################################################
+# Jupyter Book configuration (jupyter-book 1.x / Sphinx-based)
+# Sargent — "Rational Expectations and Inflation" (Fourth Edition)
+#######################################################################################
+
+title: "Rational Expectations and Inflation"
+author: "Thomas J. Sargent"
+copyright: "2026"
+logo: ""
+
+# Contributor docs that should not be built as book pages.
+exclude_patterns:
+  - GUIDE.md
+  - README.md
+
+execute:
+  execute_notebooks: "off"
+
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - dollarmath
+    - colon_fence
+    - deflist
+    - html_admonition
+
+# Bibliography database (converted from rei.bib).
+bibtex_bibfiles:
+  - references.bib
+
+html:
+  use_issues_button: false
+  use_repository_button: true
+  use_edit_page_button: false
+  home_page_in_navbar: false
+
+repository:
+  url: https://github.com/maxmaxmaxmaxmaxmax373/sargent-rei4
+  branch: main
+
+sphinx:
+  config:
+    bibtex_reference_style: author_year
+    myst_footnote_transition: false
+    mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    mathjax3_config:
+      tex:
+        tags: "ams"
+        macros:
+          "pounds": "\\unicode{xA3}"

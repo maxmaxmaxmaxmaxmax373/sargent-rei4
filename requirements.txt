@@ -1,0 +1,6 @@
+jupyter-book>=0.15,<2
+sphinxcontrib-bibtex
+numpy
+scipy
+matplotlib
+pandas

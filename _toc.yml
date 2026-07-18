@@ -1,0 +1,23 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: "Front Matter"
+    chapters:
+      - file: chapters/00a_preface_fourth_edition
+      - file: chapters/00b_preface_third_edition
+      - file: chapters/00c_preface_second_edition
+      - file: chapters/00d_preface_first_edition
+      - file: chapters/00e_acknowledgements
+  - caption: "Rational Expectations and Inflation"
+    chapters:
+      - file: chapters/01_rational_expectations_reconstruction
+      - file: chapters/02_reaganomics_credibility
+      - file: chapters/03_ends_of_four_big_inflations
+      - file: chapters/04_stopping_moderate_inflations
+      - file: chapters/05_unpleasant_monetarist_arithmetic
+      - file: chapters/06_interpreting_reagan_deficits
+      - file: chapters/07_hong_kong_dollar
+      - file: chapters/08_six_essays_in_persuasion
+      - file: chapters/09_french_revolution
+      - file: chapters/10_united_states_then_europe_now
